@@ -1,0 +1,2000 @@
+raw_name,canonical_name,match_score,was_matched
+LeadGenius,LeadGenius,53.3,False
+Teevox,Teevox,37.5,False
+Directed Edge,Directed Edge,40.0,False
+Olark,Olark,57.1,False
+JustSpotted,JustSpotted,42.1,False
+Scribd,Scribd,46.2,False
+Canopy Labs,Canopy Labs,62.5,False
+Plivo,Plivo,54.5,False
+RADAR,RADAR,57.1,False
+Semantics3,Semantics3,52.6,False
+Casetext,Casetext,42.9,False
+CareMessage,CareMessage,45.5,False
+Cruise,Cruise,50.0,False
+MixerBox,MixerBox,42.9,False
+OpenCurriculum,OpenCurriculum,50.0,False
+Checkr,Checkr,66.7,False
+Neptune.io,Neptune.io,50.0,False
+SalesSift,SalesSift,62.5,False
+Weave,Weave,46.2,False
+Qventus,Qventus,47.1,False
+20n,20n,25.0,False
+Akido Labs,Akido Labs,70.6,False
+Magic,Magic,54.5,False
+Numerion Labs,Numerion Labs,54.5,False
+Zeitview,Zeitview,47.6,False
+Platzi,Platzi,71.4,False
+Paperspace,Paperspace,55.6,False
+Smarking,Smarking,46.2,False
+Resolve,Resolve,50.0,False
+Yhat,Yhat,46.2,False
+Dabble,Dabble,46.2,False
+SigOpt,SigOpt,50.0,False
+Tara AI,Tara AI,66.7,False
+Replika,Replika,76.9,False
+Mashgin,Mashgin,50.0,False
+ROSS Intelligence,ROSS Intelligence,46.2,False
+SnapMagic,SnapMagic,53.3,False
+Microhealth,Microhealth,54.5,False
+Fountain,Fountain,57.1,False
+Reduced Energy Microsystems,Reduced Energy Microsystems,38.9,False
+Deepgram,Deepgram,61.5,False
+iSono Health,iSono Health,50.0,False
+Daily,Daily,50.0,False
+Algoriz,Algoriz,52.6,False
+Pulpix,Pulpix,50.0,False
+Netomi,Netomi,57.1,False
+Superside,Superside,58.8,False
+Podium,Podium,33.3,False
+Gecko Robotics,Gecko Robotics,50.0,False
+HistoWiz,HistoWiz,47.1,False
+Caper,Caper,61.5,False
+Sendbird,Sendbird,42.9,False
+Nova,Nova,60.0,False
+Qvin,Qvin,40.0,False
+Farmstead,Farmstead,50.0,False
+Sway Finance,Sway Finance,50.0,False
+Iris Automation,Iris Automation,62.5,False
+OneChronos,OneChronos,55.6,False
+garten,garten,54.5,False
+Airo Health,Airo Health,50.0,False
+Synvivia,Synvivia,71.4,False
+Seerslab,Seerslab,57.1,False
+Miso,Miso,53.3,False
+Athelas,Athelas,53.3,False
+Saleswhale,Saleswhale,58.8,False
+Scale AI,Scale AI,100.0,True
+People.ai,People.ai,71.4,False
+Voiceops,Voiceops,42.9,False
+Speak,Speak,100.0,True
+Scribe,Scribe,50.0,False
+Pit.AI,Pit.AI,66.7,False
+MDalgorithms Inc.,MDalgorithms Inc.,45.5,False
+Entry,Entry,46.2,False
+RankScience,RankScience,50.0,False
+Ambient.ai,Ambient.ai,66.7,False
+Penny,Penny,54.5,False
+"Veryfi, Inc.","Veryfi, Inc.",57.1,False
+AlemHealth,AlemHealth,47.1,False
+Tetra,Tetra,66.7,False
+FloydHub,FloydHub,30.0,False
+BIOS Health,BIOS Health,50.0,False
+NanoNets,NanoNets,50.0,False
+Bicycle AI,Bicycle AI,62.5,False
+Ridecell,Ridecell,61.5,False
+Helix Nanotechnologies,Helix Nanotechnologies,41.4,False
+ScopeAI,ScopeAI,76.9,False
+Skyways,Skyways,46.2,False
+VergeSense,VergeSense,50.0,False
+Standard AI,Standard AI,52.6,False
+Darmiyan,Darmiyan,50.0,False
+Mystro,Mystro,53.3,False
+Semantix,Semantix,53.3,False
+Plasticity,Plasticity,57.1,False
+Spect,Spect,60.0,False
+D-ID,D-ID,44.4,False
+Percept.AI,Percept.AI,66.7,False
+Sourceress,Sourceress,50.0,False
+Opearlo,Opearlo,61.5,False
+May Mobility,May Mobility,63.6,False
+Commissary Club (formerly 70 Million Jobs),Commissary Club (formerly 70 Million Jobs),34.0,False
+AssemblyAI,AssemblyAI,57.1,False
+Lyrebird,Lyrebird,42.9,False
+Social Construct,Social Construct,44.4,False
+10 By 10,10 By 10,28.6,False
+Thematic,Thematic,55.6,False
+FollowUpThen,FollowUpThen,44.4,False
+Proven Group,Proven Group,40.0,False
+Precious,Precious,50.0,False
+Spellbrush,Spellbrush,50.0,False
+Jasper.ai,Jasper AI,100.0,True
+Assembly,Assembly,47.1,False
+Fondo,Fondo,36.4,False
+Macromoltek,Macromoltek,54.5,False
+Promise,Promise,40.0,False
+Persephone Biosciences,Persephone Biosciences,42.4,False
+Reverie Labs,Reverie Labs,66.7,False
+Nuvocargo,Nuvocargo,40.0,False
+Edwin,Edwin,42.1,False
+Cognition IP,Cognition IP,63.2,False
+Vathys,Vathys,50.0,False
+Naborly,Naborly,50.0,False
+Weekend (fmr. Volley),Weekend (fmr. Volley),38.5,False
+SharpestMinds,SharpestMinds,47.6,False
+Tilt (f.k.a. Delphia),Tilt (f.k.a. Delphia),48.0,False
+Orangewood Labs,Orangewood Labs,45.5,False
+Memora Health,Memora Health,44.4,False
+Point API,Point API,62.5,False
+Observe.AI,Observe.AI,62.5,False
+Helloverify,Helloverify,43.5,False
+Phiar,Phiar,46.2,False
+OWNY,OWNY,42.9,False
+Within,Within,50.0,False
+"numericcal, inc.","numericcal, inc.",50.0,False
+Searchlight,Searchlight,47.1,False
+Activeloop,Activeloop,42.1,False
+Data Driven Bioscience,Data Driven Bioscience,46.7,False
+Inscribe,Inscribe,50.0,False
+JITX,JITX,40.0,False
+"AskMyClass, now Soundkins","AskMyClass, now Soundkins",42.4,False
+Anima App,Anima App,42.9,False
+LabelFlow,LabelFlow,38.1,False
+Regology,Regology,42.9,False
+Quickchat AI,Quickchat AI,54.5,False
+Rain Neuromorphics,Rain Neuromorphics,53.8,False
+Alpha Vantage,Alpha Vantage,50.0,False
+Prodigal,Prodigal,42.9,False
+TENDERD,TENDERD,47.1,False
+Eden,Eden,44.4,False
+BrainHi,BrainHi,50.0,False
+Mutiny,Mutiny,50.0,False
+Synkrino Biotherapeutics,Synkrino Biotherapeutics,43.8,False
+Leena AI,Leena AI,61.5,False
+SPATE,SPATE,60.0,False
+LemonBox,LemonBox,46.2,False
+iLabService,iLabService,52.6,False
+Aesthetic,Aesthetic,55.6,False
+Kunduz,Kunduz,33.3,False
+Overview,Overview,57.1,False
+Flockjay,Flockjay,40.0,False
+AllSome Fulfillment,AllSome Fulfillment,40.0,False
+Centaur,Centaur,46.2,False
+Windsor,Windsor,47.1,False
+Hatch,Hatch,54.5,False
+BrainKey,BrainKey,44.4,False
+Tailornova/Couturme,Tailornova/Couturme,44.4,False
+Community Phone Company,Community Phone Company,41.4,False
+Sapling.ai,Sapling.ai,62.5,False
+Demodesk,Demodesk,46.2,False
+AI Insurance,AI Insurance,47.6,False
+ResistanceBio,ResistanceBio,48.0,False
+Evo.Do,Evo.Do,36.4,False
+Docucharm,Docucharm,42.1,False
+Askdata,Askdata,57.1,False
+Probably Genetic,Probably Genetic,52.2,False
+Superorder,Superorder,50.0,False
+Bunkerhill Health,Bunkerhill Health,45.5,False
+Autodial prev Qwest,Autodial prev Qwest,45.7,False
+Hypnos,Hypnos,42.9,False
+Superb AI,Superb AI,75.0,False
+Glide,Glide,60.0,False
+Sublime Black,Sublime Black,47.1,False
+Mars Auto,Mars Auto,47.1,False
+Allure Systems,Allure Systems,45.5,False
+Tailor-ED,Tailor-ED,50.0,False
+"OutRival, Inc.","OutRival, Inc.",50.0,False
+1910,1910,16.7,False
+Playground,Playground,44.4,False
+Shiru,Shiru,54.5,False
+Figments,Figments,47.1,False
+Palifer,Palifer,66.7,False
+Symplex,Symplex,50.0,False
+Kraftful,Kraftful,35.3,False
+Well Principled,Well Principled,45.5,False
+Soteris,Soteris,58.8,False
+Lantern,Lantern,66.7,False
+Prolific,Prolific,50.0,False
+GEn1E Lifesciences,GEn1E Lifesciences,44.4,False
+Embrace,Embrace,61.5,False
+Yummy Future,Yummy Future,38.1,False
+ZETA SURGICAL,ZETA SURGICAL,45.5,False
+Milo,Milo,46.2,False
+Rosebud AI,Rosebud AI,53.3,False
+EARTH AI,EARTH AI,61.5,False
+Tensil,Tensil,53.3,False
+Vahan,Vahan,57.1,False
+Finlens,Finlens,53.3,False
+Ramen VR,Ramen VR,50.0,False
+Hightouch,Hightouch,42.1,False
+Traces,Traces,50.0,False
+Flowbot,Flowbot,33.3,False
+Meridian Industries,Meridian Industries,45.2,False
+Taskade,Taskade,46.2,False
+Motion,Motion,71.4,False
+Flowglad,Flowglad,47.1,False
+Phonic,Phonic,53.3,False
+StratumAI,StratumAI,66.7,False
+MindsDB,MindsDB,38.1,False
+FitnessAI,FitnessAI,52.6,False
+Segmed,Segmed,36.4,False
+Letterdrop,Letterdrop,42.1,False
+Taiv,Taiv,60.0,False
+Glisten AI,Glisten AI,57.1,False
+Ardis AI,Ardis AI,57.1,False
+Perceptive Technologies,Perceptive Technologies,43.8,False
+Nextmv,Nextmv,33.3,False
+Aden,Aden,54.5,False
+Datasaur,Datasaur,55.6,False
+Dashworks,Dashworks,52.6,False
+Replicate,Replicate,80.0,False
+Basedash,Basedash,50.0,False
+Clayboard,Clayboard,40.0,False
+Visual One,Visual One,50.0,False
+Operator.io,Operator.io,62.5,False
+Altay Therapeutics,Altay Therapeutics,53.8,False
+Turing Labs Inc.,Turing Labs Inc.,55.6,False
+Ello,Ello,44.4,False
+QueryPie AI,QueryPie AI,54.5,False
+Typedream,Typedream,47.6,False
+Kinter,Kinter,50.0,False
+Dropbase,Dropbase,53.3,False
+Photoroom,Photoroom,35.3,False
+Modernbanc,Modernbanc,50.0,False
+Skypher,Skypher,53.3,False
+Recurrency,Recurrency,50.0,False
+PostEra,PostEra,61.5,False
+DeepSource,DeepSource,54.5,False
+UrbanKisaan,UrbanKisaan,40.0,False
+PillarPlus,PillarPlus,44.4,False
+Zumo Labs,Zumo Labs,50.0,False
+Overfit,Overfit,47.1,False
+Oda,Oda,44.4,False
+BeGo,BeGo,36.4,False
+Recall.ai,Recall.ai,66.7,False
+Atmo,Atmo,46.2,False
+Airbyte,Airbyte,44.4,False
+Tasker AI,Tasker AI,75.0,False
+Menten AI,Menten AI,71.4,False
+Legionfarm,Legionfarm,54.5,False
+Algen Biotechnologies,Algen Biotechnologies,42.4,False
+Roboflow,Roboflow,42.1,False
+inFeedo AI,inFeedo AI,66.7,False
+Datafold,Datafold,44.4,False
+Blue Onion,Blue Onion,47.6,False
+Shuttle,Shuttle,42.9,False
+Known Medicine,Known Medicine,47.6,False
+Hypotenuse AI,Hypotenuse AI,55.6,False
+Kernal Biologics,Kernal Biologics,40.0,False
+CoreCare,CoreCare,71.4,False
+Humanloop,Humanloop,44.4,False
+Omni,Omni,60.0,False
+Atomic,Atomic,66.7,False
+Nextera Robotics | DIDGE.ai,Nextera Robotics | DIDGE.ai,42.4,False
+Nabla Bio,Nabla Bio,53.3,False
+Hyper Online,Hyper Online,52.6,False
+BIK,BIK,46.2,False
+Aquarium Learning,Aquarium Learning,43.5,False
+Cohere,Cohere,100.0,True
+Dataland,Dataland,50.0,False
+HENRY,HENRY,54.5,False
+Taktile,Taktile,46.2,False
+Mito,Mito,46.2,False
+Draftwise,Draftwise,52.6,False
+AI.Fashion,AI.Fashion,55.6,False
+Glimpse,Glimpse,50.0,False
+"Warmly,","Warmly,",53.3,False
+Fieldguide,Fieldguide,40.0,False
+Heron,Heron,54.5,False
+Degrees of Freedom,Degrees of Freedom,36.4,False
+cloud humans,cloud humans,40.0,False
+Atomic Industries,Atomic Industries,48.0,False
+authzed,authzed,46.2,False
+Humaans,Humaans,46.2,False
+RocketSDR,RocketSDR,42.1,False
+Quadrant Eye,Quadrant Eye,47.6,False
+SBX Robotics,SBX Robotics,47.6,False
+arnata,arnata,58.8,False
+Pibit.ai,Pibit.ai,57.1,False
+Vogent,Vogent,54.5,False
+Flux Auto,Flux Auto,42.9,False
+Fountain9,Fountain9,53.3,False
+Avocado,Avocado,42.9,False
+Pragmatic Leaders (Ankai Inc),Pragmatic Leaders (Ankai Inc),43.8,False
+Encord,Encord,50.0,False
+Sivo,Sivo,40.0,False
+Cyble,Cyble,50.0,False
+Supadock,Supadock,61.5,False
+Expent Inc,Expent Inc,50.0,False
+Version Story Compare,Version Story Compare,40.0,False
+Emerge Tools,Emerge Tools,47.6,False
+Parsagon,Parsagon,50.0,False
+Alinea,Alinea,61.5,False
+Vapi,Vapi,57.1,False
+Quadrant Health,Quadrant Health,48.0,False
+Mindee,Mindee,57.1,False
+Pangea.app,Pangea.app,44.4,False
+Popl,Popl,44.4,False
+Fathom,Fathom,53.3,False
+True3D,True3D,33.3,False
+FirstSupport.ai,FirstSupport.ai,56.0,False
+Rinsed,Rinsed,42.9,False
+LiveFlow,LiveFlow,44.4,False
+Datrics,Datrics,82.4,False
+Nimbus,Nimbus,42.9,False
+Tractian,Tractian,52.6,False
+Enable Us,Enable Us,55.6,False
+Platypus,Platypus,50.0,False
+Simplify,Simplify,52.6,False
+InpharmD,InpharmD,42.9,False
+Tint,Tint,50.0,False
+unSurvey,unSurvey,50.0,False
+ZOKO,ZOKO,33.3,False
+TaoFi,TaoFi,54.5,False
+Reclaim Protocol,Reclaim Protocol,47.6,False
+Biodock,Biodock,47.1,False
+Venu AI,Venu AI,66.7,False
+Compose.ai,Compose.ai,66.7,False
+Lamar Health,Lamar Health,50.0,False
+Soraban,Soraban,50.0,False
+Codeball,Codeball,46.2,False
+Dataherald,Dataherald,50.0,False
+Rejoy Health,Rejoy Health,47.1,False
+Treinta,Treinta,61.5,False
+Spline,Spline,57.1,False
+BusinessOnBot,BusinessOnBot,47.6,False
+Gigs,Gigs,40.0,False
+Friz,Friz,40.0,False
+Mystic,Mystic,53.3,False
+Navattic,Navattic,50.0,False
+MarqVision,MarqVision,52.6,False
+Routine,Routine,53.3,False
+MindPortal,MindPortal,52.6,False
+Waydev,Waydev,50.0,False
+PipeBio,PipeBio,53.3,False
+AXAR AI,AXAR AI,66.7,False
+Ollama,Ollama,40.0,False
+Humance,Humance,55.6,False
+Journey,Journey,82.4,False
+Openlayer,Openlayer,66.7,False
+Slope,Slope,60.0,False
+Legion Health,Legion Health,50.0,False
+Superwall,Superwall,58.8,False
+Mindstate Design Labs,Mindstate Design Labs,50.0,False
+Serif Health,Serif Health,47.1,False
+Abstra,Abstra,57.1,False
+Jestor,Jestor,50.0,False
+Potion,Potion,71.4,False
+Rootly,Rootly,47.1,False
+Replo,Replo,72.7,False
+FirstQuadrant,FirstQuadrant,45.5,False
+Buzzle,Buzzle,36.4,False
+Kalam Labs,Kalam Labs,58.8,False
+Affogato AI,Affogato AI,55.6,False
+Coulomb AI,Coulomb AI,53.3,False
+Confido,Confido,46.2,False
+Instalab,Instalab,70.6,False
+zaz⚡️os,zaz⚡️os,50.0,False
+Parallel Bio,Parallel Bio,47.1,False
+Swipe,Swipe,60.0,False
+Neodocs,Neodocs,40.0,False
+MobileBoost,MobileBoost,45.5,False
+RGI Labs,RGI Labs,66.7,False
+Sleek,Sleek,60.0,False
+Soco,Soco,42.9,False
+Bite Ninja,Bite Ninja,52.6,False
+Anakin,Anakin,66.7,False
+SnapCalorie,SnapCalorie,55.6,False
+Dailybot,Dailybot,50.0,False
+Tavus,Tavus,40.0,False
+Konta.com,Konta.com,42.9,False
+SafeBeat,SafeBeat,53.3,False
+Verihubs,Verihubs,47.6,False
+Secoda,Secoda,54.5,False
+Kaya,Kaya,50.0,False
+SalaryBox,SalaryBox,50.0,False
+Redbean,Redbean,57.1,False
+Sentiyen,Sentiyen,50.0,False
+Jovian,Jovian,50.0,False
+Hyperbrowser,Hyperbrowser,44.4,False
+SenpAI.GG,SenpAI.GG,57.1,False
+Warpfy,Warpfy,50.0,False
+Tiriel AI,Tiriel AI,58.8,False
+DigiBuild,DigiBuild,45.5,False
+OneStopKitchen,OneStopKitchen,52.2,False
+WarpBuild,WarpBuild,44.4,False
+Scispot,Scispot,46.2,False
+Coinrule,Coinrule,57.1,False
+Sequin,Sequin,50.0,False
+Malloc Inc,Malloc Inc,44.4,False
+Milky Way AI,Milky Way AI,52.6,False
+ShipBlu,ShipBlu,37.5,False
+GetDot,GetDot,42.1,False
+CoLoop,CoLoop,50.0,False
+Miniloop,Miniloop,42.1,False
+OneSchema,OneSchema,52.6,False
+Forage Mail,Forage Mail,54.5,False
+Mine,Mine,57.1,False
+Harmonic Discovery,Harmonic Discovery,48.0,False
+Zensors,Zensors,46.2,False
+aSim,aSim,57.1,False
+Adaptyv,Adaptyv,57.1,False
+Spark Studio,Spark Studio,50.0,False
+Mentum,Mentum,50.0,False
+Writesonic,Writesonic,100.0,True
+Matrubials,Matrubials,52.6,False
+Mach9,Mach9,42.9,False
+Revery AI,Revery AI,75.0,False
+Tenyks,Tenyks,40.0,False
+Adni,Adni,57.1,False
+Telmai,Telmai,53.3,False
+Hudson Labs (formerly Bedrock AI),Hudson Labs (formerly Bedrock AI),46.2,False
+Zuma,Zuma,40.0,False
+Vibe Kanban,Vibe Kanban,42.1,False
+Caire Health,Caire Health,47.1,False
+Shape,Shape,60.0,False
+ContraForce,ContraForce,52.2,False
+Output Biosciences,Output Biosciences,40.0,False
+CellChorus,CellChorus,40.0,False
+Opkit,Opkit,54.5,False
+Squire.ai,Squire.ai,57.1,False
+SFA Therapeutics,SFA Therapeutics,58.3,False
+Spoken,Spoken,54.5,False
+Bytebot,Bytebot,40.0,False
+Adravision,Adravision,50.0,False
+Medium Biosciences,Medium Biosciences,46.7,False
+Safer Management,Safer Management,42.4,False
+Exa,Exa,66.7,False
+Sully,Sully,37.5,False
+Andi,Andi,60.0,False
+Attack Capital,Attack Capital,43.5,False
+Keylika,Keylika,46.2,False
+SilkChart,SilkChart,50.0,False
+TigerEye,TigerEye,44.4,False
+Strac,Strac,57.1,False
+Moots,Moots,50.0,False
+Capuchin,Capuchin,58.8,False
+Sieve,Sieve,54.5,False
+PolicyFly,PolicyFly,40.0,False
+Lumina,Lumina,50.0,False
+Trellus,Trellus,47.1,False
+WeReno,WeReno,50.0,False
+Rosebud Biosciences,Rosebud Biosciences,38.7,False
+VantedgeAI,VantedgeAI,58.8,False
+PromptLoop,PromptLoop,37.5,False
+Cozmo AI,Cozmo AI,61.5,False
+Sota2,Sota2,54.5,False
+Stably AI (Orca),Stably AI (Orca),69.6,False
+CoffeeAI,CoffeeAI,57.1,False
+Sei AI,Sei AI,66.7,False
+Axross Pte Ltd,Axross Pte Ltd,47.1,False
+Spinach AI,Spinach AI,55.6,False
+Nyckel,Nyckel,50.0,False
+Gym Class,Gym Class,46.2,False
+InferEdge,InferEdge,47.1,False
+Industrial Next,Industrial Next,52.2,False
+Rownd,Rownd,40.0,False
+Kaso,Kaso,46.2,False
+Dioptra,Dioptra,57.1,False
+Bobidi,Bobidi,50.0,False
+Iron Leap,Iron Leap,50.0,False
+Ankr Health,Ankr Health,50.0,False
+MySivi,MySivi,40.0,False
+Unlayer,Unlayer,61.5,False
+Criya,Criya,54.5,False
+haddock,haddock,42.9,False
+Fintelite,Fintelite,53.3,False
+Cerebrium,Cerebrium,53.3,False
+Versable,Versable,57.1,False
+MosaicVoice,MosaicVoice,45.5,False
+LanceDB,LanceDB,50.0,False
+Beam,Beam,54.5,False
+Sophys,Sophys,50.0,False
+Armilla AI,Armilla AI,55.6,False
+Dart,Dart,42.9,False
+Emobi,Emobi,50.0,False
+National Finance Olympiad,National Finance Olympiad,45.2,False
+Reforged Labs,Reforged Labs,54.5,False
+Flagright,Flagright,44.4,False
+RedBrick AI,RedBrick AI,60.0,False
+T3 Chat,T3 Chat,47.1,False
+Speechly,Speechly,46.2,False
+Sphere,Sphere,66.7,False
+SkyLink,SkyLink,42.9,False
+RefineTrain AI,RefineTrain AI,64.0,False
+PermitFlow,PermitFlow,45.5,False
+NearWave,NearWave,50.0,False
+Siftly,Siftly,47.1,False
+Velt,Velt,60.0,False
+Cogram,Cogram,53.3,False
+Toko,Toko,35.3,False
+Cotera,Cotera,66.7,False
+Curacel,Curacel,61.5,False
+Finnt,Finnt,46.2,False
+Strong Compute,Strong Compute,43.5,False
+SubscriptionFlow,SubscriptionFlow,48.3,False
+Lovage,Lovage,40.0,False
+"Sendme, Inc","Sendme, Inc",42.9,False
+Sprites,Sprites,58.8,False
+SmartHelio,SmartHelio,52.6,False
+goodfin,goodfin,57.1,False
+Airwork,Airwork,46.2,False
+Cinder,Cinder,50.0,False
+BotCity,BotCity,44.4,False
+Vimmerse,Vimmerse,57.1,False
+Broccoli AI,Broccoli AI,50.0,False
+Bemlo,Bemlo,42.9,False
+Talentropy.ai,Talentropy.ai,66.7,False
+mutable.ai,mutable.ai,66.7,False
+Theneo,Theneo,50.0,False
+Ponyrun,Ponyrun,46.2,False
+Top Road,Top Road,47.1,False
+AvairSense,AvairSense,44.4,False
+IoTFlows Inc,IoTFlows Inc,40.0,False
+Nophin,Nophin,57.1,False
+HOAi,HOAi,60.0,False
+Spade,Spade,60.0,False
+Status,Status,47.1,False
+Shaped,Shaped,54.5,False
+Ploomber,Ploomber,42.9,False
+Housewarming,Housewarming,44.4,False
+RTHM,RTHM,40.0,False
+Blink,Blink,42.9,False
+Humand,Humand,40.0,False
+Workflow86,Workflow86,31.6,False
+Codec,Codec,54.5,False
+Postal,Postal,53.3,False
+Finku,Finku,35.3,False
+AYC Fund,AYC Fund,37.5,False
+Heptabase,Heptabase,54.5,False
+Kenobi,Kenobi,50.0,False
+Darsel,Darsel,54.5,False
+Nara,Nara,50.0,False
+Query Vary,Query Vary,44.4,False
+Impossible Metals,Impossible Metals,40.0,False
+Cellbyte,Cellbyte,44.4,False
+GovDash,GovDash,46.2,False
+KorrAI,KorrAI,50.0,False
+MSPilot,MSPilot,50.0,False
+Powerdocs,Powerdocs,42.1,False
+Flike,Flike,57.1,False
+Reality Defender,Reality Defender,47.6,False
+WhiteLab Genomics,WhiteLab Genomics,53.8,False
+Poly,Poly,44.4,False
+Layerup,Layerup,42.9,False
+Wolfia,Wolfia,42.9,False
+Paces,Paces,46.2,False
+Airtrain AI,Airtrain AI,63.2,False
+Star,Star,46.2,False
+Elessar,Elessar,50.0,False
+Mercator,Mercator,47.1,False
+Julius,Julius,33.3,False
+Ciro,Ciro,60.0,False
+Dialect,Dialect,52.6,False
+Penguin AI,Penguin AI,66.7,False
+Truva,Truva,54.5,False
+SigmaMind AI,SigmaMind AI,47.1,False
+Two Dots,Two Dots,40.0,False
+Superpowered AI,Superpowered AI,54.5,False
+Makeasite,Makeasite,53.3,False
+Bunting Labs,Bunting Labs,52.6,False
+Pasito,Pasito,50.0,False
+Blitz,Blitz,54.5,False
+Cerrion,Cerrion,47.1,False
+Impractical,Impractical,47.1,False
+CustomerOS,CustomerOS,62.5,False
+CODEXA,CODEXA,50.0,False
+Champ,Champ,44.4,False
+Roxels,Roxels,50.0,False
+Fetii,Fetii,58.8,False
+Craze,Craze,54.5,False
+Paragon AI,Paragon AI,60.0,False
+NuMind,NuMind,50.0,False
+Midplane,Midplane,55.6,False
+Overwatch,Overwatch,53.3,False
+Blee,Blee,44.4,False
+Raven,Raven,46.2,False
+Activepieces,Activepieces,50.0,False
+Popsy,Popsy,54.5,False
+Juicebox,Juicebox,42.1,False
+Apply Design,Apply Design,44.4,False
+Phind,Phind,46.2,False
+Namecard.ai,Namecard.ai,62.5,False
+Flair Labs,Flair Labs,70.6,False
+Unify,Unify,54.5,False
+Mistle,Mistle,66.7,False
+Typewise,Typewise,42.9,False
+NewsCatcher,NewsCatcher,47.6,False
+100x,100x,28.6,False
+Thera,Thera,66.7,False
+Peoplebox.ai,Peoplebox.ai,69.6,False
+Coris,Coris,54.5,False
+Hedgehog,Hedgehog,42.9,False
+Alphawatch AI,Alphawatch AI,57.1,False
+AnythingLLM,AnythingLLM,50.0,False
+Latent Space,Latent Space,50.0,False
+AviaryAI,AviaryAI,62.5,False
+FlyCode,FlyCode,46.2,False
+Maya Labs,Maya Labs,62.5,False
+Rima AI (formerly Garage),Rima AI (formerly Garage),41.4,False
+Quinn,Quinn,46.2,False
+Aurelian,Aurelian,57.1,False
+Metriport,Metriport,53.3,False
+Fini,Fini,50.0,False
+Cobbery,Cobbery,61.5,False
+Feather,Feather,58.8,False
+Artemis Search,Artemis Search,43.5,False
+Argovox,Argovox,40.0,False
+Atlas,Atlas,61.5,False
+Unthread,Unthread,58.8,False
+Ad Army,Ad Army,53.3,False
+Sanifu,Sanifu,50.0,False
+HOMLI,HOMLI,42.9,False
+Boton,Boton,61.5,False
+Avina,Avina,54.5,False
+Invofox,Invofox,42.1,False
+Firecrawl,Firecrawl,53.3,False
+Sonnet,Sonnet,42.9,False
+Jasmine Energy,Jasmine Energy,47.6,False
+Oneleet,Oneleet,47.1,False
+Wondercraft,Wondercraft,47.1,False
+Clearline,Clearline,62.5,False
+Monterey AI,Monterey AI,60.0,False
+Pump.co,Pump.co,42.9,False
+Knowtex,Knowtex,50.0,False
+Lavo Life Sciences,Lavo Life Sciences,42.9,False
+Delfino AI,Delfino AI,53.3,False
+CAPSULE,CAPSULE,57.1,False
+InVision Medical Technology,InVision Medical Technology,38.7,False
+Cambio,Cambio,60.0,False
+Axle,Axle,54.5,False
+Landeed,Landeed,50.0,False
+Chima,Chima,44.4,False
+Intuned,Intuned,53.3,False
+Integrated Reasoning,Integrated Reasoning,48.3,False
+Dev Tools AI,Dev Tools AI,58.8,False
+Polymath Robotics,Polymath Robotics,56.0,False
+Sameday,Sameday,57.1,False
+zudo.work,zudo.work,42.9,False
+Rubbrband,Rubbrband,40.0,False
+Middleware,Middleware,50.0,False
+StackAI,StackAI,62.5,False
+Designbase,Designbase,60.9,False
+Blyss,Blyss,37.5,False
+Reflex,Reflex,50.0,False
+Linum,Linum,42.9,False
+Cardinal,Cardinal,50.0,False
+Traceloop,Traceloop,53.3,False
+Trigger.dev,Trigger.dev,41.7,False
+Syncly,Syncly,46.2,False
+Layup,Layup,40.0,False
+Credal.ai,Credal.ai,66.7,False
+Rollstack,Rollstack,50.0,False
+Paperplane,Paperplane,55.6,False
+Novelcare,Novelcare,55.6,False
+Lume,Lume,44.4,False
+Concourse,Concourse,53.3,False
+Latent,Latent,57.1,False
+Backdrop,Backdrop,47.1,False
+Mulligan,Mulligan,47.1,False
+Indexical,Indexical,53.3,False
+Demospace,Demospace,50.0,False
+Brewit,Brewit,66.7,False
+Lynx,Lynx,44.4,False
+Palomma,Palomma,53.3,False
+Parabolic,Parabolic,55.6,False
+Rubber Ducky Labs,Rubber Ducky Labs,40.0,False
+Pair AI,Pair AI,57.1,False
+Ohm,Ohm,44.4,False
+Double – Coding Copilot,Double – Coding Copilot,56.2,False
+Glass Health,Glass Health,50.0,False
+Versive,Versive,61.5,False
+Salient,Salient,57.1,False
+Dataglade,Dataglade,44.4,False
+Narrative,Narrative,50.0,False
+OfOne,OfOne,46.2,False
+OpenSight,OpenSight,66.7,False
+loopfour,loopfour,40.0,False
+Gluetrail,Gluetrail,63.2,False
+infra.new,infra.new,52.6,False
+PoplarML,PoplarML,50.0,False
+CreatorML,CreatorML,53.3,False
+Scanbase,Scanbase,53.3,False
+Neptyne,Neptyne,53.3,False
+Bluebirds,Bluebirds,42.1,False
+LinkGrep,LinkGrep,42.9,False
+Cosine,Cosine,57.1,False
+Gooseworks,Gooseworks,40.0,False
+Frigade,Frigade,44.4,False
+Haven,Haven,61.5,False
+coil inc.,coil inc.,60.0,False
+No Cap,No Cap,54.5,False
+Dream3D,Dream3D,42.9,False
+DataSuite,DataSuite,52.6,False
+Outerbase,Outerbase,53.3,False
+co.dev,co.dev,54.5,False
+Langfuse,Langfuse,47.1,False
+Extend,Extend,40.0,False
+Floworks,Floworks,35.3,False
+Aqueduct,Aqueduct,40.0,False
+Inkeep,Inkeep,57.1,False
+Velos,Velos,54.5,False
+EzDubs,EzDubs,37.5,False
+Wild Moose,Wild Moose,42.1,False
+ShortLoop,ShortLoop,44.4,False
+Booth AI,Booth AI,58.8,False
+Truewind,Truewind,42.9,False
+TableFlow,TableFlow,47.6,False
+Orchid,Orchid,44.4,False
+KV Cash,KV Cash,40.0,False
+1stCollab,1stCollab,50.0,False
+Magicflow 𐂂,Magicflow 𐂂,45.5,False
+Helicone,Helicone,62.5,False
+Ariglad,Ariglad,53.3,False
+222,222,18.2,False
+Variance,Variance,57.1,False
+Fintool,Fintool,42.1,False
+Boundary,Boundary,57.1,False
+FactIQ,FactIQ,47.1,False
+Sage AI,Sage AI,76.9,False
+SensorSurf,SensorSurf,50.0,False
+Hadrius,Hadrius,53.3,False
+Fairway Health,Fairway Health,42.1,False
+Shortbread,Shortbread,50.0,False
+Sherloq,Sherloq,46.2,False
+Finic,Finic,53.3,False
+Hippo Scribe,Hippo Scribe,40.0,False
+CombineHealth,CombineHealth,43.5,False
+Echo,Echo,50.0,False
+SuperKalam,SuperKalam,55.6,False
+Clueso,Clueso,66.7,False
+Retape,Retape,50.0,False
+Coldreach,Coldreach,53.3,False
+inBuild,inBuild,46.2,False
+Diffuse Bio,Diffuse Bio,45.5,False
+Pylon,Pylon,46.2,False
+Epsilon,Epsilon,53.3,False
+Helios,Helios,50.0,False
+PlayAI,PlayAI,66.7,False
+Corgi Labs,Corgi Labs,58.8,False
+DAGWorks Inc.,DAGWorks Inc.,55.6,False
+Maxi,Maxi,60.0,False
+Hindsight,Hindsight,40.0,False
+OpenInt,OpenInt,76.9,False
+Decohere,Decohere,85.7,False
+CodeParrot AI,CodeParrot AI,63.2,False
+Conduit,Conduit,46.2,False
+Berry,Berry,54.5,False
+Interlock,Interlock,55.6,False
+rex.fit,rex.fit,66.7,False
+Vocode,Vocode,50.0,False
+Fabius,Fabius,50.0,False
+Benchmark,Benchmark,44.4,False
+Verata,Verata,50.0,False
+Pier,Pier,60.0,False
+Vector,Vector,50.0,False
+Metal,Metal,72.7,False
+Kyber,Kyber,36.4,False
+Persana AI,Persana AI,66.7,False
+Type,Type,44.4,False
+Lightski,Lightski,57.1,False
+Vendora,Vendora,47.1,False
+Adri AI,Adri AI,61.5,False
+Second,Second,57.1,False
+Warp,Warp,46.2,False
+Fetchr,Fetchr,50.0,False
+Upfront,Upfront,46.2,False
+LiteLLM,LiteLLM,46.2,False
+Automat,Automat,56.0,False
+Pierre,Pierre,66.7,False
+Yuma AI,Yuma AI,66.7,False
+Vaero,Vaero,54.5,False
+Pando Bioscience,Pando Bioscience,45.5,False
+kapa.ai,kapa.ai,61.5,False
+Kino AI,Kino AI,66.7,False
+Reworkd,Reworkd,46.2,False
+Branch AI,Branch AI,70.6,False
+Ora AI,Ora AI,57.1,False
+Xeol,Xeol,44.4,False
+Metoro,Metoro,50.0,False
+Clearest Health,Clearest Health,48.0,False
+Elyos AI,Elyos AI,53.3,False
+Accend,Accend,40.0,False
+Deasy Labs,Deasy Labs,58.8,False
+Hyperbound,Hyperbound,44.4,False
+Magic Loops,Magic Loops,47.6,False
+Remy,Remy,50.0,False
+Sohar Health,Sohar Health,52.6,False
+Diligent,Diligent,46.2,False
+Pointhound,Pointhound,55.6,False
+Readily,Readily,53.3,False
+Casca,Casca,50.0,False
+Cedana,Cedana,54.5,False
+Lifelike,Lifelike,47.1,False
+OpenTools,OpenTools,53.3,False
+Atla,Atla,54.5,False
+Contour,Contour,46.2,False
+Mandel AI,Mandel AI,66.7,False
+Prosper,Prosper,53.3,False
+Talc,Talc,46.2,False
+Synch,Synch,57.1,False
+CORE,CORE,80.0,False
+Subsets,Subsets,50.0,False
+GreenTally,GreenTally,52.6,False
+Spine AI,Spine AI,66.7,False
+Baud,Baud,36.4,False
+SID,SID,44.4,False
+Alguna,Alguna,50.0,False
+Campfire,Campfire,50.0,False
+Parea,Parea,61.5,False
+Venta AI,Venta AI,76.9,False
+Punchcard,Punchcard,44.4,False
+Bronco AI,Bronco AI,57.1,False
+Kite,Kite,42.9,False
+Obento Health,Obento Health,54.5,False
+Docsum,Docsum,37.5,False
+Arcimus,Arcimus,47.1,False
+Corgea,Corgea,66.7,False
+Serra,Serra,90.9,False
+Outset,Outset,37.5,False
+Shasta Health,Shasta Health,47.6,False
+Health Harbor,Health Harbor,47.6,False
+FleetWorks,FleetWorks,45.5,False
+Repaint,Repaint,76.9,False
+Dialtone,Dialtone,58.8,False
+Cardinal Gray,Cardinal Gray,52.2,False
+Skyvern,Skyvern,46.2,False
+Decoda Health,Decoda Health,47.1,False
+Numen,Numen,46.2,False
+VetRec,VetRec,66.7,False
+Lysto,Lysto,36.4,False
+Epsilla,Epsilla,50.0,False
+Sidenote,Sidenote,50.0,False
+Unhaze,Unhaze,50.0,False
+Surface Labs,Surface Labs,52.6,False
+Maven Bio,Maven Bio,50.0,False
+MediSearch,MediSearch,42.1,False
+Bretton AI,Bretton AI,58.8,False
+Midrender,Midrender,63.2,False
+Vizly,Vizly,37.5,False
+AgentCollect,AgentCollect,48.0,False
+Empirical Health,Empirical Health,50.0,False
+Glade,Glade,60.0,False
+Continue,Continue,50.0,False
+sizeless,sizeless,44.4,False
+Pincites,Pincites,62.5,False
+Studdy,Studdy,35.3,False
+Gleam,Gleam,80.0,False
+Bolto,Bolto,46.2,False
+Khoj,Khoj,30.8,False
+Slicker,Slicker,61.5,False
+Energent AI,Energent AI,54.5,False
+Flint,Flint,54.5,False
+Rankai,Rankai,53.3,False
+Vango AI,Vango AI,62.5,False
+Sola,Sola,61.5,False
+Read Bean,Read Bean,66.7,False
+Automorphic,Automorphic,60.0,False
+Baserun,Baserun,53.3,False
+VectorShift,VectorShift,45.5,False
+DisputeNinja,DisputeNinja,47.6,False
+Chatter,Chatter,66.7,False
+Inari,Inari,61.5,False
+Andromeda Surgical,Andromeda Surgical,50.0,False
+Silimate,Silimate,52.6,False
+Sweep,Sweep,60.0,False
+sudocode,sudocode,42.9,False
+Inventive AI,Inventive AI,60.9,False
+Langdock,Langdock,58.8,False
+Movley,Movley,50.0,False
+Elythea,Elythea,62.5,False
+Nanograb,Nanograb,47.1,False
+HappyRobot,HappyRobot,38.1,False
+Cedalio,Cedalio,57.1,False
+Terracotta AI,Terracotta AI,55.6,False
+Fiber AI,Fiber AI,61.5,False
+Tiptap,Tiptap,50.0,False
+Minded,Minded,50.0,False
+Strada,Strada,66.7,False
+Quill Bills,Quill Bills,44.4,False
+Cair Health,Cair Health,50.0,False
+Webhound,Webhound,44.4,False
+dili,dili,46.2,False
+Roame,Roame,42.9,False
+Kips Health,Kips Health,62.5,False
+Inconvo,Inconvo,66.7,False
+FlowiseAI,FlowiseAI,53.3,False
+Saatvy,Saatvy,47.1,False
+Giga,Giga,53.3,False
+AiSDR,AiSDR,50.0,False
+Foundation,Foundation,55.6,False
+Simbie AI,Simbie AI,57.1,False
+Mocha,Mocha,44.4,False
+Twine,Twine,46.2,False
+Structured Labs,Structured Labs,43.5,False
+Nowadays,Nowadays,57.1,False
+Morph,Morph,40.0,False
+Constructable,Constructable,50.0,False
+Wattson Health,Wattson Health,54.5,False
+truemetrics,truemetrics,47.6,False
+Cognitio Labs,Cognitio Labs,50.0,False
+Autotab,Autotab,48.0,False
+Opensteer,Opensteer,53.3,False
+Tempo,Tempo,40.0,False
+jo,jo,33.3,False
+CodeStory,CodeStory,53.3,False
+Orbio Earth,Orbio Earth,50.0,False
+Letterbook,Letterbook,40.0,False
+Goldbridge,Goldbridge,50.0,False
+Onyx,Onyx,42.9,False
+Gumloop,Gumloop,40.0,False
+Event Horizon Labs,Event Horizon Labs,61.5,False
+Upsolve AI,Upsolve AI,62.5,False
+Navier AI,Navier AI,62.5,False
+DryMerge,DryMerge,46.2,False
+OpenPipe,OpenPipe,71.4,False
+RadMate AI,RadMate AI,62.5,False
+Scritch,Scritch,47.1,False
+Legora,Legora,55.6,False
+ego,ego,36.4,False
+Cora,Cora,60.0,False
+Greptile,Greptile,57.1,False
+Ubicloud,Ubicloud,47.6,False
+Happenstance,Happenstance,44.4,False
+Duckie,Duckie,40.0,False
+ion design,ion design,47.6,False
+Tekton Dynamics,Tekton Dynamics,50.0,False
+Sonia,Sonia,57.1,False
+Kabilah,Kabilah,55.6,False
+Tracecat,Tracecat,52.6,False
+Precip,Precip,50.0,False
+Nuanced,Nuanced,44.4,False
+Poka Labs,Poka Labs,62.5,False
+Andon Labs,Andon Labs,58.8,False
+Reducto,Reducto,46.2,False
+Momentic,Momentic,57.1,False
+Tuesday Labs,Tuesday Labs,52.6,False
+Saga AI,Saga AI,61.5,False
+Quary,Quary,54.5,False
+Alex,Alex,54.5,False
+Pretzel AI,Pretzel AI,57.1,False
+nCompass Technologies,nCompass Technologies,38.5,False
+Keystroke,Keystroke,44.4,False
+Pivot Robotics,Pivot Robotics,50.0,False
+Agentic Labs,Agentic Labs,63.2,False
+Basalt,Basalt,47.1,False
+Leaping,Leaping,66.7,False
+Breez Labs,Breez Labs,63.2,False
+AveryIQ,AveryIQ,66.7,False
+Patchwork,Patchwork,53.3,False
+PointOne,PointOne,75.0,False
+Arini,Arini,53.3,False
+ROE,ROE,44.4,False
+Artisan,Artisan,50.0,False
+Simplex,Simplex,50.0,False
+Eggnog,Eggnog,47.1,False
+Greenboard,Greenboard,42.1,False
+Ecliptor,Ecliptor,57.1,False
+Trellis AI,Trellis AI,55.6,False
+Topo,Topo,47.1,False
+Panelytic,Panelytic,58.8,False
+Copper Health,Copper Health,55.6,False
+Blume Benefits,Blume Benefits,43.5,False
+Tusk,Tusk,44.4,False
+OneGrep,OneGrep,61.5,False
+Attunement,Attunement,42.9,False
+StarJar,StarJar,50.0,False
+Meticulate,Meticulate,50.0,False
+Glimmer,Glimmer,50.0,False
+PromptArmor,PromptArmor,43.5,False
+Respan,Respan,54.5,False
+Monumint,Monumint,44.4,False
+Central,Central,50.0,False
+Guide Labs,Guide Labs,58.8,False
+Speck,Speck,80.0,False
+Polished,Polished,42.9,False
+LemonSlice,LemonSlice,50.0,False
+Decipher AI,Decipher AI,60.0,False
+Toolify,Toolify,44.4,False
+Clarion,Clarion,57.1,False
+Tamarind Bio,Tamarind Bio,47.1,False
+scrip-ai,scrip-ai,61.5,False
+quickads,quickads,44.4,False
+wonderchat,wonderchat,42.1,False
+creatosaurus,creatosaurus,45.5,False
+blobr,blobr,36.4,False
+pencil,pencil,66.7,False
+freeadcopy-com,freeadcopy-com,42.1,False
+marpipe-com,marpipe-com,55.6,False
+omneky,omneky,50.0,False
+kilo-ai,kilo-ai,57.1,False
+30characters,30characters,78.3,False
+adbot-your-search-ads-specialist,adbot-your-search-ads-specialist,36.8,False
+copycop,copycop,61.5,False
+adinspiration,adinspiration,57.1,False
+engagexai,engagexai,53.3,False
+ai-suggests,ai-suggests,38.1,False
+adcopy-ai,adcopy-ai,85.7,False
+creative-score,creative-score,52.6,False
+write-conch-ai,write-conch-ai,72.7,False
+copyflow-pro,copyflow-pro,47.1,False
+ogilvy,ogilvy,40.0,False
+salesboosta-com,salesboosta-com,53.8,False
+ezra-ads,ezra-ads,46.2,False
+ecomadpro,ecomadpro,40.0,False
+pixcanva,pixcanva,50.0,False
+copywritergpt-io,copywritergpt-io,48.0,False
+azameo-fr,azameo-fr,42.1,False
+wordcopyai,wordcopyai,75.0,False
+adgeneratorpro,adgeneratorpro,43.5,False
+macbeth-ai,macbeth-ai,66.7,False
+adcopy,adcopy,66.7,False
+isavantai,isavantai,58.8,False
+write-like-a-pro,write-like-a-pro,52.2,False
+unbound,unbound,46.2,False
+powered-by-agency,powered-by-agency,44.4,False
+luma-ai,luma-ai,66.7,False
+planner-5d,planner-5d,58.8,False
+tripo-ai,tripo-ai,66.7,False
+meshy,meshy,40.0,False
+iconscout,iconscout,60.0,False
+stable-diffusion,stable-diffusion,53.8,False
+rodin,rodin,46.2,False
+spline,spline,57.1,False
+canny-autopilot,canny-autopilot,52.2,False
+runcomfy,runcomfy,57.1,False
+cgdream-ai,cgdream-ai,55.6,False
+vizcom,vizcom,42.9,False
+pixcap-3d-illustration-pack,pixcap-3d-illustration-pack,42.9,False
+pixcap-3d-animated-icons,pixcap-3d-animated-icons,48.3,False
+3d-ai-studio,3d-ai-studio,43.5,False
+customuse-com,customuse-com,44.4,False
+rosebud,rosebud,33.3,False
+pageon-ai,pageon-ai,71.4,False
+alpha3d-io,alpha3d-io,50.0,False
+sloyd,sloyd,37.5,False
+csm,csm,44.4,False
+avaturn-me,avaturn-me,47.1,False
+kaedim,kaedim,46.2,False
+modelslab-ai,modelslab-ai,58.8,False
+ludo-ai,ludo-ai,66.7,False
+opus,opus,40.0,False
+backflip-ai,backflip-ai,50.0,False
+aihouse-com,aihouse-com,44.4,False
+aihouse,aihouse,47.1,False
+mappedin-com,mappedin-com,52.6,False
+leiapix-ai,leiapix-ai,53.3,False
+synthesis-ai,synthesis-ai,90.0,False
+getfloorplan,getfloorplan,47.1,False
+arcadium,arcadium,52.6,False
+avatar-one,avatar-one,47.1,False
+seapik-ai,seapik-ai,61.5,False
+radical,radical,50.0,False
+masterpiece-x-generate,masterpiece-x-generate,42.9,False
+styldod,styldod,37.5,False
+photogenius-ai,photogenius-ai,57.1,False
+scout-by-asseter-ai,scout-by-asseter-ai,53.8,False
+ai-face-studio,ai-face-studio,50.0,False
+trellis-3d-ai,trellis-3d-ai,50.0,False
+3daily,3daily,60.0,False
+charmed-ai-texture-generator,charmed-ai-texture-generator,50.0,False
+masterpiece-studio,masterpiece-studio,46.2,False
+laprompt,laprompt,47.1,False
+3dlogoai,3dlogoai,53.3,False
+blueberry-ai,blueberry-ai,47.6,False
+genie-2,genie-2,54.5,False
+brickcenter,brickcenter,47.6,False
+magiscan-ai-3d-scanner-app,magiscan-ai-3d-scanner-app,42.4,False
+opalai-scanto3d,opalai-scanto3d,54.5,False
+123kanfang-com,123kanfang-com,36.4,False
+zolak,zolak,57.1,False
+gnucleus-ai,gnucleus-ai,58.8,False
+drawings-alive,drawings-alive,46.2,False
+instant3d-ai,instant3d-ai,60.0,False
+pixelvibe-com,pixelvibe-com,50.0,False
+lumiere-3d-ai,lumiere-3d-ai,52.2,False
+voge,voge,44.4,False
+sketchpro-ai,sketchpro-ai,57.1,False
+snapmeasureai,snapmeasureai,64.0,False
+kanai,kanai,57.1,False
+movmi-ai-powered-motion-capture,movmi-ai-powered-motion-capture,44.4,False
+thecela-com,thecela-com,50.0,False
+mineflow-yc-s24,mineflow-yc-s24,43.5,False
+photog,photog,42.9,False
+snowpixel-app,snowpixel-app,57.1,False
+glyf-3d-ai-art-generator,glyf-3d-ai-art-generator,40.0,False
+brick-generator,brick-generator,41.7,False
+suapp-ai,suapp-ai,61.5,False
+gentype-io,gentype-io,52.6,False
+copernicai,copernicai,75.0,False
+hyra,hyra,50.0,False
+diverseshot,diverseshot,47.1,False
+stable-fast-3d-sf3d,stable-fast-3d-sf3d,44.4,False
+draw3d,draw3d,33.3,False
+heroify,heroify,50.0,False
+style3d-ai,style3d-ai,62.5,False
+lovers-ai,lovers-ai,57.1,False
+stable-video-3d,stable-video-3d,50.0,False
+nak3d,nak3d,42.9,False
+jeeliz-com,jeeliz-com,42.9,False
+ai-powered-3d-marketplace,ai-powered-3d-marketplace,35.7,False
+meshcapade-me,meshcapade-me,44.4,False
+sv3d-online,sv3d-online,42.1,False
+mondial3d-ai-3d-model-generator,mondial3d-ai-3d-model-generator,34.3,False
+triorama-ai,triorama-ai,55.6,False
+psychoroid-com,psychoroid-com,45.5,False
+latent-labs,latent-labs,70.0,False
+g3dai-jedi,g3dai-jedi,46.2,False
+worlds-beyond,worlds-beyond,46.2,False
+kirin,kirin,42.9,False
+imagineai-by-magus-gg,imagineai-by-magus-gg,38.5,False
+character-design-by-museclip,character-design-by-museclip,55.6,False
+trulience-com,trulience-com,50.0,False
+atlas-3d-ai,atlas-3d-ai,53.3,False
+wordcraft3d,wordcraft3d,36.4,False
+idjpg-com,idjpg-com,44.4,False
+imrsivo,imrsivo,50.0,False
+konfiwear,konfiwear,40.0,False
+izanamiai,izanamiai,50.0,False
+birble-ai-dashboard,birble-ai-dashboard,41.4,False
+censored-ai,censored-ai,63.6,False
+masterpiecevr-com,masterpiecevr-com,48.0,False
+xspiral,xspiral,61.5,False
+2frames-app,2frames-app,42.1,False
+guekn,guekn,60.0,False
+neural4d,neural4d,42.9,False
+textto3d,textto3d,33.3,False
+showbiz-ai,showbiz-ai,53.3,False
+oven-ai,oven-ai,83.3,False
+imagerest-all-in-one-al-image-platform,imagerest-all-in-one-al-image-platform,36.4,False
+pristina-ai-render-realism-fast,pristina-ai-render-realism-fast,38.9,False
+sheliapp,sheliapp,58.8,False
+arrival,arrival,53.3,False
+dimensionlabs,dimensionlabs,52.2,False
+vaivr,vaivr,50.0,False
+hunyuan3d-2-0,hunyuan3d-2-0,36.4,False
+meshifai,meshifai,57.1,False
+bevelify,bevelify,46.2,False
+nom3d-studio,nom3d-studio,52.6,False
+ai-doll,ai-doll,46.2,False
+visionar-visualize-your-creations,visionar-visualize-your-creations,47.6,False
+altpage-ai,altpage-ai,62.5,False
+thomson-reuters,thomson-reuters,50.0,False
+mathgpt-ai-math-solver-animator,mathgpt-ai-math-solver-animator,43.2,False
+nume,nume,40.0,False
+nanonets,nanonets,50.0,False
+insightsoftware,insightsoftware,50.0,False
+accountable-de,accountable-de,42.1,False
+intapp,intapp,44.4,False
+docuclipper,docuclipper,38.1,False
+taxgpt-com,taxgpt-com,37.5,False
+taxgpt,taxgpt,46.2,False
+syft-assist-ai,syft-assist-ai,60.9,False
+kick,kick,42.9,False
+agree-com,agree-com,37.5,False
+zeni-ai,zeni-ai,66.7,False
+formx-ai,formx-ai,60.0,False
+pump,pump,40.0,False
+rossum-ai,rossum-ai,57.1,False
+tutoreva-campus-ai-study-help,tutoreva-campus-ai-study-help,41.9,False
+tutoreva,tutoreva,44.4,False
+affinda-com,affinda-com,44.4,False
+receiptor-ai,receiptor-ai,55.6,False
+mindbridge-ai,mindbridge-ai,52.6,False
+yokoy-io,yokoy-io,46.2,False
+digits-accounting-reimagined,digits-accounting-reimagined,40.0,False
+financegpt,financegpt,47.6,False
+clienthub-app,clienthub-app,48.0,False
+leasecake,leasecake,57.1,False
+osfin-ai,osfin-ai,66.7,False
+algodocs,algodocs,40.0,False
+appzen-com,appzen-com,47.1,False
+marcus-your-ai-billing-agent,marcus-your-ai-billing-agent,40.0,False
+uprise-embedded,uprise-embedded,36.4,False
+finvi-com,finvi-com,50.0,False
+chargezoom-com,chargezoom-com,42.1,False
+receipt-ai-for-startup,receipt-ai-for-startup,40.0,False
+skwad,skwad,42.9,False
+trezy,trezy,46.2,False
+arte,arte,53.3,False
+deferred,deferred,46.2,False
+cpa-pilot,cpa-pilot,57.1,False
+cradl-ai,cradl-ai,71.4,False
+patterns,patterns,50.0,False
+iota,iota,53.3,False
+quanta,quanta,50.0,False
+monai,monai,72.7,False
+taxly-ai,taxly-ai,66.7,False
+vuala-1-0,vuala-1-0,42.9,False
+freeday-ai,freeday-ai,58.8,False
+ai-bookkeeping,ai-bookkeeping,51.9,False
+bookeeping-ai,bookeeping-ai,55.6,False
+procys,procys,40.0,False
+mesh,mesh,40.0,False
+nuvio,nuvio,54.5,False
+ledgerbox,ledgerbox,42.1,False
+rocket-statements,rocket-statements,41.4,False
+zapro-ai,zapro-ai,66.7,False
+ai-search-by-mesha,ai-search-by-mesha,44.4,False
+credibl-esg,credibl-esg,43.5,False
+kili,kili,46.2,False
+cc-monet-home,cc-monet-home,47.6,False
+entendre-finance,entendre-finance,43.5,False
+inbuild,inbuild,46.2,False
+getinvoice,getinvoice,47.6,False
+mej-erp-ai,mej-erp-ai,62.5,False
+snaptobook,snaptobook,42.1,False
+unitedtax-ai,unitedtax-ai,58.8,False
+recordme,recordme,57.1,False
+received,received,44.4,False
+finance-brain,finance-brain,57.1,False
+ever-efficient-ai,ever-efficient-ai,51.9,False
+tango-ai,tango-ai,62.5,False
+invoice-matchpoint-by-dodocs-ai,invoice-matchpoint-by-dodocs-ai,41.0,False
+bank-statement-converter,bank-statement-converter,45.0,False
+fortune,fortune,47.1,False
+assist-biz,assist-biz,44.4,False
+financial-fusion,financial-fusion,50.0,False
+backdrop,backdrop,47.1,False
+mrgn,mrgn,44.4,False
+insightai,insightai,55.6,False
+turbodoc,turbodoc,47.6,False
+kerno-start,kerno-start,47.6,False
+bank-statement-convert,bank-statement-convert,42.9,False
+adam,adam,54.5,False
+ai-accounting-apps,ai-accounting-apps,44.4,False
+zeeinvoices,zeeinvoices,47.6,False
+oly-ai,oly-ai,72.7,False
+pennyflo,pennyflo,42.9,False
+serina,serina,66.7,False
+reform,reform,50.0,False
+documentpro,documentpro,47.1,False
+spendtally,spendtally,53.3,False
+homeworkify,homeworkify,38.1,False
+accountingsolverai,accountingsolverai,48.3,False
+invoice-box-发票盒子,invoice-box-发票盒子,44.4,False
+ontariosystems-com,ontariosystems-com,44.4,False
+tribearc,tribearc,47.1,False
+facturasaexcel,facturasaexcel,40.0,False
+decodebills,decodebills,50.0,False
+midaflow,midaflow,47.1,False
+tablebits-by-lensell,tablebits-by-lensell,48.3,False
+billie,billie,47.1,False
+receipt-cat,receipt-cat,50.0,False
+mest,mest,60.0,False
+buildkeeper,buildkeeper,50.0,False
+expensee,expensee,50.0,False
+ai-reviews,ai-reviews,47.1,False
+spendsights,spendsights,50.0,False
+fdo-ai,fdo-ai,66.7,False
+expense-sorted,expense-sorted,48.0,False
+myiq-ai,myiq-ai,53.3,False
+harriet-ai,harriet-ai,70.6,False
+billy-ai-invoicing-made-effortless,billy-ai-invoicing-made-effortless,33.3,False
+gpt-hero,gpt-hero,58.8,False
+eveski,eveski,50.0,False
+simpla-ai,simpla-ai,57.1,False
+getpersona-app,getpersona-app,52.2,False
+chartx-ai,chartx-ai,73.7,False
+easygoing,easygoing,44.4,False
+myinvoicer,myinvoicer,44.4,False
+receiptify,receiptify,50.0,False
+proco,proco,46.2,False
+slayed-ai,slayed-ai,66.7,False
+ence,ence,60.0,False
+fincheck-by-trezy,fincheck-by-trezy,47.6,False
+learnex-ai,learnex-ai,58.8,False
+yapayzeka-net,yapayzeka-net,50.0,False
+splitparty,splitparty,50.0,False
+the-freelance-app,the-freelance-app,46.2,False
+hexar-ai,hexar-ai,66.7,False
+invoiceocr,invoiceocr,44.4,False
+paygenie,paygenie,57.1,False
+ai-pdf-bank-statement-parser,ai-pdf-bank-statement-parser,38.1,False
+saaspec,saaspec,53.3,False
+stabbl,stabbl,58.8,False
+apptrop,apptrop,62.5,False
+evrythink-1-0-financial-planning,evrythink-1-0-financial-planning,35.0,False
+showmemoney,showmemoney,47.6,False
+ecomstat,ecomstat,52.6,False
+genkin,genkin,54.5,False
+daftar-automate-your-agency,daftar-automate-your-agency,52.4,False
+transacly-co,transacly-co,50.0,False
+infawork,infawork,47.1,False
+time-squeeze,time-squeeze,33.3,False
+smart-invoices,smart-invoices,45.5,False
+invoices-dev,invoices-dev,47.1,False
+accelbooks,accelbooks,44.4,False
+rupease,rupease,50.0,False
+bank-statement-extractor,bank-statement-extractor,37.5,False
+fiorino-ai,fiorino-ai,58.8,False
+invoicemint,invoicemint,47.1,False
+eliteinvoice,eliteinvoice,54.5,False
+invoicedataextraction-com,invoicedataextraction-com,44.4,False
+bizfast-io,bizfast-io,47.6,False
+workfusion-app,workfusion-app,47.6,False
+ai-invoicer,ai-invoicer,52.6,False
+sendpay,sendpay,50.0,False
+vent,vent,44.4,False
+finjy,finjy,40.0,False
+jupid-ai-accountant,jupid-ai-accountant,40.0,False
+victoria-ai,victoria-ai,63.2,False
+capyparse,capyparse,53.3,False
+rapidscan-ai,rapidscan-ai,55.6,False
+trae,trae,46.2,False
+predis,predis,50.0,False
+adcreative-ai,adcreative-ai,63.2,False
+creatopy,creatopy,57.1,False
+ai-image-translator-for-ecom-image,ai-image-translator-for-ecom-image,39.0,False
+minea,minea,54.5,False
+otto-google-ads,otto-google-ads,51.9,False
+icon-ai-generated-influencer-ads,icon-ai-generated-influencer-ads,41.0,False
+gethookd,gethookd,47.6,False
+rubii,rubii,40.0,False
+maker-ai,maker-ai,66.7,False
+hautech-ai,hautech-ai,60.0,False
+lexilexi-ai,lexilexi-ai,63.6,False
+viral-ecom-adz,viral-ecom-adz,50.0,False
+neuronsinc-com,neuronsinc-com,45.5,False
+neurons,neurons,53.3,False
+shown-io,shown-io,47.1,False
+waymark,waymark,50.0,False
+adpilot-by-picsart,adpilot-by-picsart,46.2,False
+polaranalytics-com,polaranalytics-com,48.0,False
+enhencer-com,enhencer-com,42.1,False
+connected-stories-genaissance,connected-stories-genaissance,41.0,False
+adscan-ai,adscan-ai,66.7,False
+adgen-ai,adgen-ai,71.4,False
+zocket,zocket,40.0,False
+segwise-ai,segwise-ai,57.1,False
+metric-tech,metric-tech,50.0,False
+productly-app,productly-app,41.7,False
+suppixel-ai,suppixel-ai,55.6,False
+fliz-ai,fliz-ai,55.6,False
+nexad,nexad,50.0,False
+adgpt-com,adgpt-com,53.3,False
+viro,viro,40.0,False
+dropbotai-com,dropbotai-com,52.6,False
+community-hub,community-hub,44.4,False
+fusionos-ai,fusionos-ai,62.5,False
+qortex-ai,qortex-ai,57.1,False
+airpost,airpost,55.6,False
+evercopy,evercopy,57.1,False
+plug-play-ai-marketing-team,plug-play-ai-marketing-team,40.0,False
+memorable-ad-maker,memorable-ad-maker,40.0,False
+thirdi,thirdi,53.3,False
+adsgency-ai-mvp,adsgency-ai-mvp,50.0,False
+hookads-ai,hookads-ai,50.0,False
+alphactr,alphactr,62.5,False
+clickable,clickable,50.0,False
+averi,averi,61.5,False
+shakespeare,shakespeare,52.6,False
+ugc-ads,ugc-ads,40.0,False
+ad-mocker,ad-mocker,53.3,False
+ai-product-shot,ai-product-shot,50.0,False
+omnitrain-ai,omnitrain-ai,70.0,False
+selfadvertiser-com,selfadvertiser-com,41.7,False
+creative-fast-aid,creative-fast-aid,53.8,False
+swipify,swipify,44.4,False
+daydrm-ai,daydrm-ai,53.3,False
+xiangji-1-0,xiangji-1-0,50.0,False
+adxl-ai,adxl-ai,66.7,False
+posterstudio,posterstudio,47.6,False
+growtake,growtake,58.8,False
+agentprod,agentprod,55.6,False
+dicer-ai,dicer-ai,61.5,False
+roach-ai,roach-ai,62.5,False
+hippist-ai,hippist-ai,57.1,False
+adstronaut,adstronaut,47.1,False
+showstop,showstop,37.5,False
+wafrow-landing-pages-on-steroids,wafrow-landing-pages-on-steroids,42.1,False
+peachly-ai,peachly-ai,58.8,False
+cameralyze-no-code-ai-studio,cameralyze-no-code-ai-studio,45.7,False
+faqx,faqx,30.8,False
+beb-ai,beb-ai,66.7,False
+hifen-io,hifen-io,52.6,False
+adgen-studio,adgen-studio,55.6,False
+motion-cut,motion-cut,58.8,False
+frequently-ai,frequently-ai,50.0,False
+quantplus,quantplus,44.4,False
+ai-logo-art,ai-logo-art,47.1,False
+altos-ai-autonomous-advertising,altos-ai-autonomous-advertising,43.5,False
+product-ad-ai,product-ad-ai,47.1,False
+ohmysynt,ohmysynt,47.1,False
+adflare-ai,adflare-ai,62.5,False
+ecoms-genie-ai,ecoms-genie-ai,55.6,False
+hollyfy,hollyfy,30.8,False
+adxcel-com,adxcel-com,42.9,False
+living-images,living-images,48.0,False
+brandnetworksinc-com,brandnetworksinc-com,42.9,False
+imgpt,imgpt,54.5,False
+adastra,adastra,57.1,False
+mad-ad,mad-ad,54.5,False
+adspawn,adspawn,57.1,False
+performwell,performwell,47.1,False
+instaon-io,instaon-io,58.8,False
+veedy-ai,veedy-ai,66.7,False
+adlas-io,adlas-io,57.1,False
+shots-maker,shots-maker,52.6,False
+lolify,lolify,35.3,False
+engaugeai-test-your-ad-creatives,engaugeai-test-your-ad-creatives,45.0,False
+virtual-verse-labs,virtual-verse-labs,53.8,False
+human-model-based-ai-images,human-model-based-ai-images,41.2,False
+genads,genads,54.5,False
+dynamicads,dynamicads,50.0,False
+asset-creatives-ai,asset-creatives-ai,52.2,False
+f-xai,f-xai,85.7,False
+adsrapido,adsrapido,58.8,False
+content-creation-tools,content-creation-tools,43.8,False
+make-ad,make-ad,50.0,False
+smmai-ai-banner-maker,smmai-ai-banner-maker,44.4,False
+generate-ads-ai,generate-ads-ai,52.6,False
+the-influencer-ai,the-influencer-ai,59.3,False
+recraft-image-model,recraft-image-model,38.5,False
+captions,captions,53.3,False
+wondershare-virbo,wondershare-virbo,41.7,False
+basedlabs,basedlabs,58.8,False
+writesonic,Writesonic,100.0,True
+pippit-ai,pippit-ai,60.0,False
+creatify,creatify,53.3,False
+higgsfield,higgsfield,47.6,False
+phot-ai,phot-ai,61.5,False
+topview-ai,topview-ai,66.7,False
+durable,durable,47.1,False
+lightx,lightx,50.0,False
+powtoon,powtoon,53.3,False
+deevid-ai,deevid-ai,57.1,False
+gravity-write,gravity-write,45.5,False
+arcads,arcads,50.0,False
+blaze,blaze,42.9,False
+blaze-designer,blaze-designer,44.4,False
+aifreebox-free-ai-tools,aifreebox-free-ai-tools,43.8,False
+flair-ai,flair-ai,53.3,False
+winninghunter-com,winninghunter-com,41.7,False
+promo-ai-video-maker,promo-ai-video-maker,45.7,False
+vidau,vidau,72.7,False
+askingtips,askingtips,44.4,False
+supermeme-ai,supermeme-ai,63.2,False
+wordkraft-ai,wordkraft-ai,47.6,False
+neuroflash,neuroflash,52.6,False
+200-chatgpt-mega-prompts-for-solopreneurs,200-chatgpt-mega-prompts-for-solopreneurs,33.3,False
+200-chatgpt-mega-prompts-for-marketing,200-chatgpt-mega-prompts-for-marketing,36.4,False
+zebracat-ai,zebracat-ai,57.1,False
+makeugc,makeugc,37.5,False
+sellthetrend-com,sellthetrend-com,40.0,False
+free-midjourney-ai-art-generator,free-midjourney-ai-art-generator,52.6,False
+synthesys-x,synthesys-x,73.7,False
+nichesss,nichesss,47.6,False
+pagepilot-ai,pagepilot-ai,66.7,False
+cohesive-ai,cohesive-ai,62.5,False
+kive,kive,40.0,False
+glorify-3-0-design-tool-powered-by-ai,glorify-3-0-design-tool-powered-by-ai,38.1,False
+influee,influee,53.3,False
+storylab-ai,storylab-ai,63.2,False
+molypix-ai,molypix-ai,53.3,False
+open-spoken-ai,open-spoken-ai,66.7,False
+ultra-fast-image-generator,ultra-fast-image-generator,43.9,False
+sivi-ai,sivi-ai,58.8,False
+anyword,anyword,40.0,False
+adminer-pro,adminer-pro,50.0,False
+clarice-ai,clarice-ai,70.0,False
+plainly-ai,plainly-ai,60.0,False
+glitching-ai,glitching-ai,52.6,False
+storykit,storykit,47.1,False
+digital-first-ai,digital-first-ai,56.0,False
+magickpen,magickpen,44.4,False
+story-boards-ai,story-boards-ai,54.5,False
+contentbot-ai,contentbot-ai,55.6,False
+typeface,typeface,50.0,False
+remagine-ai,remagine-ai,50.0,False
+copylime-com,copylime-com,58.8,False
+bria,bria,42.9,False
+bria-ai,bria-ai,53.3,False
+postly,postly,47.1,False
+copymatic,copymatic,80.0,False
+optimo,optimo,57.1,False
+voolt,voolt,37.5,False
+fibr-ai,fibr-ai,53.3,False
+ugc-ads-ai,ugc-ads-ai,53.3,False
+boolvideo,boolvideo,43.5,False
+plai-io,plai-io,57.1,False
+marketingblocks-ai,marketingblocks-ai,46.2,False
+propertysimple-com,propertysimple-com,48.3,False
+go-charlie,go-charlie,55.6,False
+smartli,smartli,57.1,False
+jounce,jounce,62.5,False
+speedy,speedy,54.5,False
+typeframes,typeframes,44.4,False
+skyline-social-s-ai-marketing-assistant,skyline-social-s-ai-marketing-assistant,39.1,False
+seede-ai,seede-ai,57.1,False
+adwisely-com,adwisely-com,42.1,False
+cornucopia-ai-the-ai-app-store,cornucopia-ai-the-ai-app-store,38.9,False
+giti-ai,giti-ai,57.1,False
+marketer-tech,marketer-tech,43.5,False
+postcrest,postcrest,44.4,False
+lucas-ai-video-creator,lucas-ai-video-creator,45.2,False
+groweasy,groweasy,57.1,False
+adspolar,adspolar,53.3,False
+viva-labs,viva-labs,62.5,False
+cowriter,cowriter,57.1,False
+viralvideo,viralvideo,52.6,False
+addlly-ai,addlly-ai,53.3,False
+productiai-co,productiai-co,50.0,False
+vplate-video-ads-chat-gpt-plugin,vplate-video-ads-chat-gpt-plugin,38.9,False
+copygenius-io,copygenius-io,55.6,False
+ai-kat,ai-kat,54.5,False
+aiter-io,aiter-io,55.6,False
+ecommerce-prompt-generator,ecommerce-prompt-generator,40.0,False
+atozaitools,atozaitools,47.6,False
+ai-keeda,ai-keeda,46.2,False
+vsl-ai,vsl-ai,66.7,False
+persuva-ai,persuva-ai,58.8,False
+waveai-ai-editor,waveai-ai-editor,45.5,False
+open-agent-cloud-antler-f24,open-agent-cloud-antler-f24,45.2,False
+simplified-co,simplified-co,50.0,False
+whatmore-live,whatmore-live,50.0,False
+jeeves-ai,jeeves-ai,55.6,False
+growf-ai,growf-ai,55.6,False
+bannsai,bannsai,55.6,False
+flamel-ai,flamel-ai,57.1,False
+muku-ai,muku-ai,50.0,False
+muku-ai-1,muku-ai-1,46.2,False
+zappit-ai,zappit-ai,66.7,False
+underline-ai,underline-ai,52.6,False
+echo-memo,echo-memo,50.0,False
+yaara-ai,yaara-ai,55.6,False
+spicytool,spicytool,47.1,False
+rocketai,rocketai,57.1,False
+2vid,2vid,60.0,False
+kartiv,kartiv,47.1,False
+viscap-ai,viscap-ai,66.7,False
+humai-in,humai-in,50.0,False
+caseo-ai,caseo-ai,71.4,False
+vmeg-clips-to-videos,vmeg-clips-to-videos,40.0,False
+creativai,creativai,60.0,False
+geniusgate,geniusgate,47.6,False
+streamr,streamr,50.0,False
+copywhiz-ai,copywhiz-ai,75.0,False
+automate-your-image-with-bannerify,automate-your-image-with-bannerify,54.2,False
+roya-ai,roya-ai,66.7,False
+sprout-ai,sprout-ai,62.5,False
+listingcopy-ai,listingcopy-ai,63.2,False
+marketerspen,marketerspen,47.6,False
+auraticai,auraticai,60.0,False
+sprello,sprello,50.0,False
+hoshai,hoshai,50.0,False
+copy-genius,copy-genius,62.5,False
+supergpt,supergpt,50.0,False
+vapa-ai,vapa-ai,61.5,False
+showhype,showhype,47.1,False
+jaxo-ai,jaxo-ai,66.7,False
+dittto,dittto,40.0,False
+askcory-ai,askcory-ai,66.7,False
+markey-ai,markey-ai,75.0,False
+editby,editby,50.0,False
+editby-2-0,editby-2-0,42.9,False
+aieasyuse,aieasyuse,47.1,False
+pandarocket-ai-suite,pandarocket-ai-suite,48.0,False
+certy-ai,certy-ai,63.2,False
+nexmind,nexmind,47.6,False
+mai,mai,66.7,False
+bannergate-ai,bannergate-ai,60.9,False
+krut-ai,krut-ai,50.0,False
+studio-neiro-ai,studio-neiro-ai,63.2,False
+adbuilder-ai,adbuilder-ai,66.7,False
+social360,social360,50.0,False
+marmof,marmof,47.1,False
+planpost-ai-best-ai-content-generator,planpost-ai-best-ai-content-generator,40.0,False
+typeflowai,typeflowai,50.0,False
+dinuai,dinuai,57.1,False
+copyshark-ai,copyshark-ai,70.6,False
+xbuilder-ai,xbuilder-ai,50.0,False
+seogeek,seogeek,50.0,False
+epicly-ai,epicly-ai,60.0,False
+autotext-ai,autotext-ai,60.0,False
+copyfrog-ai,copyfrog-ai,75.0,False
+loopgenius-com,loopgenius-com,52.6,False
+deeply-cz,deeply-cz,76.9,False
+notey-ai,notey-ai,66.7,False
+sagui-ai,sagui-ai,61.5,False
+vibrance,vibrance,57.1,False
+copypilot,copypilot,66.7,False
+copyly,copyly,66.7,False
+firebay-studios,firebay-studios,43.5,False
+neuron-make-ai,neuron-make-ai,50.0,False
+aiwrita,aiwrita,55.6,False
+glorifyapp-com,glorifyapp-com,41.7,False
+lifemind,lifemind,54.5,False
+deep-marketer,deep-marketer,47.1,False
+whateverlogo,whateverlogo,44.4,False
+folktalk,folktalk,47.1,False
+ai-note-ai-writing-tool,ai-note-ai-writing-tool,40.0,False
+arconar,arconar,46.2,False
+optimyzee,optimyzee,47.1,False
+getsleek-ai,getsleek-ai,60.0,False
+on-target-ai,on-target-ai,60.0,False
+glato-ai-beta,glato-ai-beta,55.6,False
+rooftops-ai,rooftops-ai,66.7,False
+pacifis-ai,pacifis-ai,50.0,False
+donakosy,donakosy,44.4,False
+lek,lek,50.0,False
+regem-ai-platform,regem-ai-platform,47.6,False
+friday-ai,friday-ai,50.0,False
+septimo-io,septimo-io,50.0,False
+jaeves,jaeves,50.0,False
+aitorke,aitorke,47.1,False
+ideaaize,ideaaize,57.1,False
+copypage,copypage,71.4,False
+hireyay,hireyay,66.7,False
+artiro,artiro,57.1,False
+vossle,vossle,46.2,False
+aioai,aioai,66.7,False
+clevopyai,clevopyai,80.0,False
+aug-x-labs-ai-video-editing,aug-x-labs-ai-video-editing,38.9,False
+writenow-ai,writenow-ai,70.0,False
+pro-writing-kit,pro-writing-kit,52.2,False
+mypromptstudio,mypromptstudio,48.0,False
+marketer-geni,marketer-geni,52.2,False
+templify-ai,templify-ai,63.6,False
+scanlist,scanlist,66.7,False
+starsky-ai,starsky-ai,60.0,False
+cretorial-ai,cretorial-ai,60.0,False
+flapper-ai,flapper-ai,70.6,False
+spyro-ai,spyro-ai,66.7,False
+jiandikie,jiandikie,40.0,False
+copygen,copygen,61.5,False
+conceptai,conceptai,66.7,False
+clearmix,clearmix,66.7,False
+ai-wrytr,ai-wrytr,46.2,False
+ai-product-tools,ai-product-tools,37.0,False
+fresho,fresho,50.0,False
+make-content,make-content,52.6,False
+freelino,freelino,57.1,False
+insertchatgpt,insertchatgpt,42.1,False
+collider-ai,collider-ai,58.8,False
+maso-ai,maso-ai,66.7,False
+clarityscribe-ai,clarityscribe-ai,53.8,False
+lilybank-ai,lilybank-ai,52.6,False
+quickpenai,quickpenai,62.5,False
+aipakistani,aipakistani,55.6,False
+wordspilot,wordspilot,52.2,False
+jaydee-ai,jaydee-ai,66.7,False
+ai-thingy,ai-thingy,47.1,False
+cluc-io,cluc-io,50.0,False
+writechamp-io,writechamp-io,54.5,False
+codest,codest,50.0,False
+appai,appai,66.7,False
+promptext,promptext,57.1,False
+motionscribe,motionscribe,60.0,False
+chatwizard-1-click-chatgpt-prompts,chatwizard-1-click-chatgpt-prompts,40.0,False
+ai-scribe-pro,ai-scribe-pro,47.1,False
+writeai-tech,writeai-tech,66.7,False
+disperto,disperto,50.0,False
+govoice,govoice,46.2,False
+ai-speeder,ai-speeder,58.8,False
+toolsit,toolsit,46.2,False
+ailora-ai,ailora-ai,60.0,False
+writebyai,writebyai,63.2,False
+amzx,amzx,40.0,False
+airychat,airychat,50.0,False
+reedit,reedit,66.7,False
+writeturbo,writeturbo,60.0,False
+texthub-ai,texthub-ai,63.2,False
+writebot-ai,writebot-ai,70.0,False
+somantic-ai,somantic-ai,55.6,False
+mindmeldcanvas-ai,mindmeldcanvas-ai,51.9,False
+ai-writing-assistant,ai-writing-assistant,45.2,False
+scribfy,scribfy,42.9,False
+impulse-ai,impulse-ai,53.3,False
+jat-ai-hub,jat-ai-hub,53.3,False
+wordadai,wordadai,53.3,False
+typerrr-com,typerrr-com,44.4,False
+uvoh-com,uvoh-com,30.8,False
+reetail-store,reetail-store,50.0,False
+nando-ai,nando-ai,71.4,False
+enginewp-elevate-your-website,enginewp-elevate-your-website,38.9,False
+logic-lister-ai,logic-lister-ai,60.9,False
+feather-ai,feather-ai,73.7,False
+openaidonakosy,openaidonakosy,60.0,False
+friz,friz,40.0,False
+e-commerce-ai,e-commerce-ai,60.9,False
+contenthubai-com,contenthubai-com,48.0,False
+writarai,writarai,58.8,False
+crea-de-xmetaverso,crea-de-xmetaverso,44.4,False
+doerplan-automated-marketing-strategies,doerplan-automated-marketing-strategies,44.4,False
+synapso-ai,synapso-ai,66.7,False
+magicads-ai,magicads-ai,57.1,False
+sora-video-ai,sora-video-ai,55.6,False
+m-ai-mymarketing-ai,m-ai-mymarketing-ai,50.0,False
+producthero-ai,producthero-ai,60.9,False
+getresponse-fr,getresponse-fr,43.5,False
+gaxu,gaxu,44.4,False
+expert-robot-pro,expert-robot-pro,37.0,False
+ramban-ai,ramban-ai,63.2,False
+hopprz,hopprz,40.0,False
+boostrbot,boostrbot,40.0,False
+gen-master,gen-master,52.6,False
+autron-ai,autron-ai,62.5,False
+ai-content-idea-generator,ai-content-idea-generator,41.2,False
+weexai,weexai,66.7,False
+darwin-studio,darwin-studio,45.5,False
+ai-genius-writer-ecommerce-writing,ai-genius-writer-ecommerce-writing,38.1,False
+heenok,heenok,50.0,False
+copie,copie,72.7,False
+datagems,datagems,55.6,False
+meduza-ai,meduza-ai,71.4,False
+imitate-ai,imitate-ai,66.7,False
+siuuu-ai,siuuu-ai,61.5,False
+sage-marketer-data,sage-marketer-data,46.2,False
+colocio-ai,colocio-ai,58.8,False
+ai-wizard,ai-wizard,42.9,False
+geniusmindsai,geniusmindsai,47.6,False
+asseto,asseto,46.2,False
+momoai-art,momoai-art,50.0,False
+baklavai-com,baklavai-com,44.4,False
+copywriterpro,copywriterpro,52.6,False
+sprkr,sprkr,60.0,False
+cannypen,cannypen,42.9,False
+atbridges,atbridges,63.2,False
+write-label,write-label,50.0,False
+marevo,marevo,42.9,False
+instapg-es,instapg-es,45.5,False
+zeedle-ai,zeedle-ai,53.3,False
+qovai,qovai,54.5,False
+pleasureye,pleasureye,45.5,False
+skriptify,skriptify,42.1,False
+birdseye,birdseye,46.2,False
+floxi-io,floxi-io,42.1,False
+turbo-generate,turbo-generate,60.9,False
+prompt-commerce,prompt-commerce,50.0,False
+clip-studio-ai,clip-studio-ai,55.6,False
+cherrytree-ai,cherrytree-ai,60.9,False
+scriptaa,scriptaa,53.3,False
+promarkia,promarkia,47.1,False
+buzzin-spots-ai-social-commerce-toolkit,buzzin-spots-ai-social-commerce-toolkit,34.8,False
+cherrie,cherrie,76.9,False
+axofy-ai,axofy-ai,61.5,False
+slidereels,slidereels,53.3,False
+free-tools-provider,free-tools-provider,38.7,False
+copyblaze,copyblaze,66.7,False
+preemedia-ai-ugc-ads,preemedia-ai-ugc-ads,44.4,False
+maqnet-ai,maqnet-ai,71.4,False
+smartlyq,smartlyq,58.8,False
+portal-by-20vision,portal-by-20vision,41.7,False
+veo-3-ai,veo-3-ai,60.0,False
+writegenic-ai,writegenic-ai,72.7,False
+groas,groas,42.9,False
+triple-whale,triple-whale,43.5,False
+hypeauditor-com,hypeauditor-com,40.0,False
+recruit-crm,recruit-crm,50.0,False
+aisensy,aisensy,40.0,False
+ifable,ifable,47.1,False
+testmarket-analytics-inc,testmarket-analytics-inc,48.0,False
+scaleinsights-com,scaleinsights-com,52.2,False
+200-chatgpt-mega-prompts-for-business,200-chatgpt-mega-prompts-for-business,35.6,False
+seomator,seomator,47.1,False
+sellersnap-io,sellersnap-io,52.6,False
+rozetta-jp,rozetta-jp,42.1,False
+symphonyos-co,symphonyos-co,40.0,False
+twelvelabs,twelvelabs,80.0,False
+adnabu-2-0,adnabu-2-0,40.0,False
+qrcode-ai,qrcode-ai,57.1,False
+visionstory-ai,visionstory-ai,54.5,False
+bik-ai,bik-ai,50.0,False
+hammer-corp-com,hammer-corp-com,44.4,False
+247-inc-com,247-inc-com,33.3,False
+realeye-io,realeye-io,53.3,False
+zmaticoo-com,zmaticoo-com,45.5,False
+anyclip-the-genius-platform,anyclip-the-genius-platform,38.9,False
+adflex-ad-intelligence,adflex-ad-intelligence,42.9,False
+lebesgue,lebesgue,44.4,False
+perq-com,perq-com,53.3,False
+wortal,wortal,42.9,False
+opinly-ai,opinly-ai,71.4,False
+growify,growify,46.2,False
+competitors-app,competitors-app,45.5,False
+trendrocket-io,trendrocket-io,47.6,False
+lytics-com,lytics-com,42.1,False
+brandbastion-lite,brandbastion-lite,50.0,False
+quetta-browser,quetta-browser,45.2,False
+markopolo-ai,markopolo-ai,54.5,False
+bizmagnets,bizmagnets,52.6,False
+trueroas-io,trueroas-io,50.0,False
+escribelo-ai,escribelo-ai,55.6,False
+buzzabout,buzzabout,40.0,False
+shai,shai,60.0,False
+versium-reach,versium-reach,44.4,False
+newormedia-com,newormedia-com,43.5,False
+convertmate,convertmate,58.8,False
+smax-ai,smax-ai,66.7,False
+onebytelabs-in,onebytelabs-in,52.2,False
+doublecloud-with-gpt-4,doublecloud-with-gpt-4,38.5,False
+quartile-com,quartile-com,43.5,False
+lensai-shoppable-and-contextual,lensai-shoppable-and-contextual,35.9,False
+inr,inr,44.4,False
+modelia,modelia,50.0,False
+keywordsearch-com,keywordsearch-com,35.7,False
+keywordsearch-com-1,keywordsearch-com-1,34.5,False
+base-for-music,base-for-music,50.0,False
+bidmatic-io,bidmatic-io,52.6,False
+bythenumbersapp-com,bythenumbersapp-com,44.4,False
+peeksta-com,peeksta-com,45.5,False
+infinitycloud-com,infinitycloud-com,42.9,False
+intentsify,intentsify,52.6,False
+music-tomorrow-com,music-tomorrow-com,44.4,False
+kowboykit-com,kowboykit-com,36.4,False
+windsor,windsor,47.1,False
+keak,keak,66.7,False
+kwrds-ai,kwrds-ai,47.1,False
+style-ai,style-ai,71.4,False
+koah,koah,40.0,False
+luminouscrm-com,luminouscrm-com,41.7,False
+conduit-app,conduit-app,50.0,False
+datahawk-co,datahawk-co,50.0,False
+saaspedia,saaspedia,58.8,False
+incremental-ai-tradeswell-ai,incremental-ai-tradeswell-ai,47.1,False
+spatial,spatial,53.3,False
+infiniteanalytics-com,infiniteanalytics-com,43.8,False
+influensly,influensly,54.5,False
+strique,strique,50.0,False
+gowit-retail-media-ads-platform,gowit-retail-media-ads-platform,35.9,False
+heatseeker-ai,heatseeker-ai,60.9,False
+dappier-2-0,dappier-2-0,47.1,False
+dappier,dappier,53.3,False
+ecomail,ecomail,61.5,False
+greenbids-ai,greenbids-ai,47.6,False
+helloscribe,helloscribe,47.1,False
+workmagic-io,workmagic-io,41.7,False
+your-music-marketing,your-music-marketing,41.4,False
+standard-ai,standard-ai,52.6,False
+bluepear-brand-bidding-detection-tool,bluepear-brand-bidding-detection-tool,35.6,False
+affable-ai,affable-ai,62.5,False
+booleanmaths-pulse,booleanmaths-pulse,38.5,False
+culturepulse-x-reddit,culturepulse-x-reddit,48.0,False
+theineedgroup-co-uk,theineedgroup-co-uk,46.2,False
+zeals-co-jp,zeals-co-jp,40.0,False
+sitelifter-com,sitelifter-com,43.5,False
+spok,spok,66.7,False
+sellesta-com,sellesta-com,44.4,False
+algomo,algomo,35.3,False
+bidinfluence,bidinfluence,50.0,False
+swayid,swayid,50.0,False
+obviyo-com,obviyo-com,37.5,False
+sounder-ai,sounder-ai,66.7,False
+socialplaces-io,socialplaces-io,57.1,False
+mydataninja,mydataninja,47.6,False
+quest-platform,quest-platform,47.6,False
+db24,db24,36.4,False
+trusted-clicks,trusted-clicks,52.2,False
+getalfi-com,getalfi-com,50.0,False
+carambola-com,carambola-com,43.5,False
+humming-ai,humming-ai,60.0,False
+surface-labs,surface-labs,52.6,False
+sponsor-stream,sponsor-stream,48.0,False
+llmate,llmate,42.9,False
+ads4gpts,ads4gpts,53.3,False
+blue-bagels,blue-bagels,50.0,False
+pipedata-ai,pipedata-ai,62.5,False
+ad-personam-self-serve-dsp,ad-personam-self-serve-dsp,37.5,False
+zopmedia-com,zopmedia-com,47.1,False
+quicklisting,quicklisting,43.5,False
+dotchat,dotchat,47.1,False
+relay-club,relay-club,42.1,False
+tradvo-com,tradvo-com,44.4,False
+waveup-io-software,waveup-io-software,51.9,False
+appdron-chatgpt-dashboard,appdron-chatgpt-dashboard,36.4,False
+conceptdrop,conceptdrop,50.0,False
+viral-magic-ai,viral-magic-ai,57.1,False
+comment-bounce,comment-bounce,43.5,False
+sphinx-mind,sphinx-mind,44.4,False
+v-retail,v-retail,61.5,False
+archie-ai,archie-ai,63.2,False
+parallel,parallel,42.9,False
+startupstudio-ai,startupstudio-ai,47.6,False
+adsync-ai-digital-marketing-solutions,adsync-ai-digital-marketing-solutions,33.3,False
+aiclassifiedhub-com,aiclassifiedhub-com,38.7,False
+adcaptcha,adcaptcha,62.5,False
+adfonic-com,adfonic-com,47.1,False
+ai-solutions-for-smes,ai-solutions-for-smes,46.7,False
+adfixer,adfixer,46.2,False
+almeta-ml,almeta-ml,57.1,False
+og-ai,og-ai,60.0,False
+big-tech-company,big-tech-company,45.5,False
+influme,influme,52.6,False
+amplifiles,amplifiles,44.4,False
+lydo,lydo,36.4,False
+learn-prompting-pro,learn-prompting-pro,48.0,False
+playstrict,playstrict,55.6,False
+seo-content-assistant-by-searchatlas,seo-content-assistant-by-searchatlas,35.6,False
+ai-commerce-content-platform-by-akool,ai-commerce-content-platform-by-akool,33.3,False
+ceeya-ai,ceeya-ai,61.5,False
+neuwo,neuwo,46.2,False
+quaffle,quaffle,42.9,False
+askmetric,askmetric,58.8,False
+treebrain-ai-for-shopify-amazon-fba,treebrain-ai-for-shopify-amazon-fba,34.1,False
+uncleoptimizer,uncleoptimizer,46.2,False
+raqiai,raqiai,53.3,False
+dezan-cc,dezan-cc,50.0,False
+dailyreach,dailyreach,47.6,False
+netcapz,netcapz,46.2,False
+gotomarket-ai,gotomarket-ai,55.6,False
+insight-bridge,insight-bridge,53.8,False
+botads,botads,42.9,False
+biglypages,biglypages,47.6,False
+present-app,present-app,50.0,False
+giveawayai,giveawayai,55.6,False
+dropscale-com,dropscale-com,52.6,False
+ai-powered-digital-marketing,ai-powered-digital-marketing,43.2,False
+adintell,adintell,46.2,False
+bearkd-com,bearkd-com,42.9,False
+uniqin-ai,uniqin-ai,62.5,False
+gena,gena,66.7,False
+smartreply-ai,smartreply-ai,60.0,False
+affmedios-com,affmedios-com,43.5,False
+voyager1-ai,voyager1-ai,60.0,False
+clickmoat,clickmoat,44.4,False
+syntos-ai,syntos-ai,71.4,False
+ai-experts-top,ai-experts-top,42.1,False
+dubbah-co,dubbah-co,42.9,False
+pocketdeals,pocketdeals,47.6,False
+orblitzz,orblitzz,57.1,False
+heenok-brfly,heenok-brfly,40.0,False
+revmore,revmore,47.1,False
+automateclips,automateclips,51.6,False
+opulli,opulli,50.0,False
+raisen-org,raisen-org,53.3,False
+sms-tactic,sms-tactic,55.6,False
+adlamp,adlamp,46.2,False
+pathex,pathex,66.7,False
+mentionmaster,mentionmaster,57.1,False
+grro,grro,46.2,False
+weinstareply,weinstareply,48.0,False
+launchshortcut,launchshortcut,43.5,False
+its-bot,its-bot,53.3,False
+edgylabs-com,edgylabs-com,47.6,False
+neurologic-com-br,neurologic-com-br,41.7,False
+turbocomment,turbocomment,48.0,False
+inpwrd-com,inpwrd-com,47.1,False
+metamuse,metamuse,57.1,False
+fyx-ai,fyx-ai,75.0,False
+ads-copilot,ads-copilot,60.9,False
+simba,simba,54.5,False
+proxy-booster,proxy-booster,36.4,False
+hippomod,hippomod,35.3,False
+genvibe-ai,genvibe-ai,53.3,False
+askppc,askppc,42.9,False
+promast,promast,46.2,False
+datadripper,datadripper,57.1,False
+banrboard,banrboard,44.4,False
+admentary,admentary,62.5,False
+smartwebi,smartwebi,50.0,False
+lovable-games,lovable-games,45.5,False
+authenticity-leads,authenticity-leads,42.9,False
+hypebridge,hypebridge,50.0,False
+agentmark,agentmark,52.6,False
+head-ai-alpha,head-ai-alpha,47.1,False
+runrly,runrly,66.7,False
+joylink,joylink,46.2,False
+syllaby,syllaby,47.1,False
+dittin-ai,dittin-ai,62.5,False
+pillar,pillar,57.1,False
+dreamlike-art,dreamlike-art,55.6,False
+aijourney,aijourney,84.2,False
+lasso,lasso,46.2,False
+chatgpt-toolbox,chatgpt-toolbox,37.0,False
+affpilot-ai,affpilot-ai,58.8,False
+reditus,reditus,61.5,False
+swifty,swifty,47.1,False
+evolup,evolup,37.5,False
+mailvio-com,mailvio-com,42.1,False
+affistash-com,affistash-com,40.0,False
+find-affiliates,find-affiliates,46.2,False
+deepmode-ai,deepmode-ai,58.8,False
+deeto,deeto,60.0,False
+rize-capital,rize-capital,58.8,False
+trend-ai-tools,trend-ai-tools,44.4,False
+aliexpress-image-search,aliexpress-image-search,36.4,False
+norby-ai,norby-ai,61.5,False
+ivee,ivee,60.0,False
+dawn,dawn,44.4,False
+heartstring-ai,heartstring-ai,58.3,False
