@@ -1,6 +1,7 @@
 """
 Phase II: High-Fidelity Signal Ingestion (News & Jobs)
-Strict 24-Hour Freshness Filter ke sath data extract karta hai.
+Strict 24-Hour Freshness Filter to extract only the most recent AI/ML/Tech news and job postings.
+This module scrapes multiple sources for news and job postings, filters them based on relevance to AI
 """
 
 import datetime

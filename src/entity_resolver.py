@@ -1,5 +1,5 @@
 """
-Startup/Product names ko canonical (standard) naam mein resolve karta hai.
+Startup/Product names ko canonical (standard) to resolve.
 Example: "Open AI", "OpenAI Inc" -> "OpenAI"
 """
 

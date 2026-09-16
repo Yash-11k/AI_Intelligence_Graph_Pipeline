@@ -1,6 +1,6 @@
 """
-Papers scrape karke CSV mein save karta hai.
-paper_scraper.py se import karta hai.
+Papers scrape and save it to CSV file 
+paper_scraper.py import from this file 
 """
 
 import asyncio

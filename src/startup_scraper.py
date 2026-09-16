@@ -1,5 +1,5 @@
 """
-YC (Y Combinator) ke public company directory se AI startups nikaalta hai.
+YC (Y Combinator) Public Compnay se AI startups Find
 Data source: https://github.com/yc-oss/api (free, no auth needed, real data)
 """
 

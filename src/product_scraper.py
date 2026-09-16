@@ -1,5 +1,5 @@
 """
-tools.json se products leta hai, LLM se pricing model nikaalta hai,
+tools.json file with AI tools to scrape data , from existing public dataset
 aur output CSV mein save karta hai.
 """
 
