@@ -1,7 +1,7 @@
 """
-Ye file Semantic Scholar's FREE API se AI research papers nikaalti hai.
-(arxiv ke legacy export API se zyada reliable/stable hai)
-Rate limit (429/503) aane par automatic retry karti hai.
+This file fetches AI research papers using Semantic Scholar's FREE API.
+(More reliable and stable than arXiv's legacy export API)
+Handles rate limits (429/503) automatically using retry logic.
 """
 
 import aiohttp
@@ -15,7 +15,7 @@ GITHUB_PATTERN = re.compile(r"https?://github\.com/[\w\-]+/[\w\-\.]+")
 
 
 class ApiRetryError(Exception):
-    """Jab API 429/503/koi bhi server error de, ye uthayenge."""
+    """Raised when the API returns a 429/503 or any server-side error."""
     pass
 
 
@@ -48,7 +48,7 @@ async def fetch_batch(session: aiohttp.ClientSession, query: str, token: str | N
 
 
 def normalize_paper(raw: dict) -> dict:
-    """Semantic Scholar ka raw response humare schema mein convert karta hai."""
+    """Converts the raw response from Semantic Scholar into our standard schema."""
     abstract = raw.get("abstract") or ""
     github_match = GITHUB_PATTERN.search(abstract)
     github_url = github_match.group(0) if github_match else None
@@ -116,4 +116,4 @@ if __name__ == "__main__":
     print(f"\nTotal papers fetched: {len(papers)}\n")
     for p in papers[:5]:
         print("-", p["content"]["title"])
-        print("   github:", p["content"]["github_url"])
+        print("    github:", p["content"]["github_url"])

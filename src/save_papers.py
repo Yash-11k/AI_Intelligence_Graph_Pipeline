@@ -9,18 +9,18 @@ from paper_scraper import scrape_papers
 
 
 async def main():
-    print("Scraping shuru ho raha hai, thoda time lagega...")
+    print("Scraping started, this will take some time...")
     papers = await scrape_papers(query="artificial intelligence", target_count=1000)
 
-    # Nested dictionary (content.title, content.authors, etc.) ko
-    # flat table mein convert karte hain, CSV ke liye
+    # Convert nested dictionary (content.title, content.authors, etc.)
+    # into a flat table for CSV export
     rows = []
     for p in papers:
         rows.append({
             "schemaVersion": p["schemaVersion"],
             "recordType": p["recordType"],
             "title": p["content"]["title"],
-            "authors": "; ".join(p["content"]["authors"]),  # list ko text mein jodo
+            "authors": "; ".join(p["content"]["authors"]),  # Join list into text
             "paper_url": p["content"]["paper_url"],
             "github_url": p["content"]["github_url"],
             "github_stars": p["content"]["github_stars"],
@@ -34,7 +34,7 @@ async def main():
 
     print(f"\nDone! {len(df)} papers saved to output/papers.csv")
     github_count = df["github_url"].notna().sum()
-    print(f"Inme se {github_count} papers ke paas GitHub link hai.")
+    print(f"Out of these, {github_count} papers have a GitHub link.")
 
 
 if __name__ == "__main__":
