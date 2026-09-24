@@ -1,5 +1,5 @@
 """
-Startup/Product names ko canonical (standard) to resolve.
+Resolve startup/product names to canonical (standard) names.
 Example: "Open AI", "OpenAI Inc" -> "OpenAI"
 """
 
@@ -7,7 +7,7 @@ import re
 import pandas as pd
 from rapidfuzz import process, fuzz
 
-# Seed list: 50 known AI startups ke canonical naam
+# Seed list: 50 known AI startups canonical names
 CANONICAL_STARTUPS = [
     "OpenAI", "Anthropic", "Google DeepMind", "Meta AI", "Microsoft AI",
     "Cohere", "Mistral AI", "Stability AI", "Hugging Face", "Scale AI",
@@ -21,27 +21,27 @@ CANONICAL_STARTUPS = [
     "Glean", "Harvey AI", "Sierra", "Speak", "Suno AI",
 ]
 
-# Strict Threshold: False positives bachane ke liye score 90+ hona chahiye
+# Strict Threshold: Score must be 90+ to avoid false positives
 MATCH_THRESHOLD = 92.0
 
 
 def clean_name(name: str) -> str:
-    """Suffixes aur special characters hatata hai fair base comparison ke liye."""
+    """Removes suffixes and special characters for a fair base comparison."""
     if not name or pd.isna(name):
         return ""
     name = str(name).lower()
-    # Common corporate/tech suffixes strip karo
+    # Strip common corporate/tech suffixes
     # name = re.sub(r'\b(inc|corp|corporation|llc|ltd|labs|ai|io|app)\b', '', name)
     name = re.sub(r'\b(inc|corp|corporation|llc|ltd)\b', '', name)
-    # Special symbols aur extra spaces hatao
+    # Remove special symbols and extra spaces
     name = re.sub(r'[^a-z0-9]', '', name)
     return name.strip()
 
 
 def resolve_name(raw_name: str) -> tuple[str, float]:
     """
-    Ek raw naam leke, seed list mein sabse best match dhundta hai.
-    Return: (canonical_name ya original_name, score)
+    Takes a raw name and finds the best match in the seed list.
+    Return: (canonical_name or original_name, score)
     """
     if not raw_name or pd.isna(raw_name):
         return raw_name, 0.0
@@ -53,7 +53,7 @@ def resolve_name(raw_name: str) -> tuple[str, float]:
     best_match = None
     best_score = 0.0
 
-    # Cleaned base names ke aapas me comparison
+    # Comparison between cleaned base names
     for canonical in CANONICAL_STARTUPS:
         canonical_cleaned = clean_name(canonical)
 
@@ -61,12 +61,11 @@ def resolve_name(raw_name: str) -> tuple[str, float]:
         if raw_cleaned == canonical_cleaned:
             return canonical, 100.0
 
-        # 2. Token Set Ratio score calculate karo (WRatio se behtar performance deta hai)
+        # 2. Calculate Token Set Ratio score (performs better than WRatio)
         # score = fuzz.token_set_ratio(raw_name.lower(), canonical.lower())
         score = fuzz.ratio(raw_cleaned, canonical_cleaned)
 
         if score > best_score:
-    
             best_score = score
             best_match = canonical
 
@@ -78,7 +77,7 @@ def resolve_name(raw_name: str) -> tuple[str, float]:
 
 
 def build_mapping_log(names: list[str]) -> pd.DataFrame:
-    """Har unique naam ke liye ek mapping row banata hai."""
+    """Creates a mapping row for each unique name."""
     rows = []
     seen = set()
 
